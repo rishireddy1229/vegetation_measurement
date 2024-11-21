@@ -1,0 +1,632 @@
+grid,color1_h,color1_s,color1_v,colour_name,color2_h,color2_s,color2_v,colour_name.1,color3_h,color3_s,color3_v,colour_name.2,color4_h,color4_s,color4_v,colour_name.3,repeated_colour
+"Grid(0, 0)",130,147,113,Lawn Green,149,166,132,Lawn Green,154,171,137,Lawn Green,140,157,125,Lawn Green,Lawn Green
+"Grid(0, 1)",98,114,87,Lawn Green,102,118,91,Lawn Green,113,129,100,Lawn Green,104,120,93,Lawn Green,Lawn Green
+"Grid(0, 2)",106,120,94,Lawn Green,107,121,95,Lawn Green,97,111,85,Lawn Green,139,152,124,Inchworm,Lawn Green
+"Grid(0, 3)",112,125,99,Lawn Green,76,92,65,Lawn Green,174,173,152,Orange,151,163,141,Lawn Green,Lawn Green
+"Grid(0, 6)",115,143,103,Lawn Green,100,135,95,Lawn Green,97,132,90,Lawn Green,93,125,101,Celadon,Lawn Green
+"Grid(0, 7)",39,50,52,Dollar Bill,142,161,105,Inchworm,140,157,103,Inchworm,144,161,109,Inchworm,Inchworm
+"Grid(0, 8)",113,141,90,Lawn Green,106,136,86,Lawn Green,104,134,82,Lawn Green,132,158,111,Lawn Green,Lawn Green
+"Grid(0, 9)",97,113,86,Lawn Green,122,145,103,Lawn Green,125,147,108,Lawn Green,98,114,85,Lawn Green,Lawn Green
+"Grid(0, 10)",98,108,81,Inchworm,101,122,91,Lawn Green,92,116,82,Lawn Green,87,111,75,Lawn Green,Lawn Green
+"Grid(0, 11)",85,101,74,Lawn Green,76,92,65,Lawn Green,101,115,89,Lawn Green,82,98,71,Lawn Green,Lawn Green
+"Grid(0, 12)",77,91,68,Lawn Green,88,102,77,Lawn Green,80,94,69,Lawn Green,76,90,65,Lawn Green,Lawn Green
+"Grid(0, 13)",142,160,122,Inchworm,98,115,83,Lawn Green,155,172,140,Lawn Green,132,149,115,Lawn Green,Lawn Green
+"Grid(0, 15)",103,110,92,Inchworm,82,89,73,Inchworm,69,75,61,Inchworm,59,66,50,Inchworm,Inchworm
+"Grid(0, 17)",107,121,96,Lawn Green,88,104,77,Lawn Green,88,102,76,Lawn Green,91,105,82,Lawn Green,Lawn Green
+"Grid(0, 20)",20,37,27,Celadon,99,127,87,Lawn Green,118,144,107,Lawn Green,60,93,50,Lawn Green,Lawn Green
+"Grid(0, 22)",69,83,60,Lawn Green,88,101,81,Lawn Green,53,66,48,Lawn Green,82,97,78,Lawn Green,Lawn Green
+"Grid(0, 23)",93,111,85,Lawn Green,76,94,70,Lawn Green,80,100,72,Lawn Green,83,101,77,Lawn Green,Lawn Green
+"Grid(0, 27)",129,143,117,Lawn Green,83,99,73,Lawn Green,78,89,83,Celadon,62,79,60,Lawn Green,Lawn Green
+"Grid(0, 28)",83,89,75,Inchworm,95,101,87,Inchworm,71,77,63,Inchworm,98,103,83,Inchworm,Inchworm
+"Grid(0, 29)",98,109,92,Lawn Green,90,101,84,Lawn Green,108,120,96,Lawn Green,99,110,93,Lawn Green,Lawn Green
+"Grid(0, 30)",104,115,98,Lawn Green,69,82,64,Lawn Green,75,85,74,Lawn Green,100,111,94,Lawn Green,Lawn Green
+"Grid(0, 31)",103,115,101,Lawn Green,83,96,79,Lawn Green,115,129,112,Lawn Green,89,102,85,Lawn Green,Lawn Green
+"Grid(0, 32)",102,105,98,Inchworm,100,103,94,Inchworm,82,91,90,Pistachio,83,86,79,Inchworm,Inchworm
+"Grid(0, 33)",108,115,107,Lawn Green,97,107,96,Lawn Green,121,131,120,Lawn Green,94,99,92,Lawn Green,Lawn Green
+"Grid(0, 34)",255,214,244,Rifle Green,254,215,242,Rifle Green,255,219,246,Rifle Green,71,72,66,Orange,Rifle Green
+"Grid(0, 35)",255,216,245,Rifle Green,253,217,243,Rifle Green,255,219,247,Dark Olive Green,255,216,243,Rifle Green,Rifle Green
+"Grid(0, 36)",255,217,238,Rifle Green,255,216,243,Rifle Green,254,218,246,Dark Olive Green,255,204,240,Rifle Green,Rifle Green
+"Grid(0, 37)",255,211,244,Rifle Green,254,211,241,Rifle Green,255,218,237,Rifle Green,255,212,240,Rifle Green,Rifle Green
+"Grid(0, 38)",255,209,235,Rifle Green,254,220,247,Dark Olive Green,254,208,234,Rifle Green,255,212,237,Rifle Green,Rifle Green
+"Grid(1, 0)",131,148,112,Inchworm,117,134,98,Inchworm,111,128,92,Inchworm,101,117,91,Lawn Green,Inchworm
+"Grid(1, 2)",128,133,103,Orange,83,99,72,Lawn Green,78,94,67,Lawn Green,108,124,97,Lawn Green,Lawn Green
+"Grid(1, 3)",86,100,75,Lawn Green,70,84,59,Lawn Green,102,116,91,Lawn Green,103,117,92,Lawn Green,Lawn Green
+"Grid(1, 4)",99,115,88,Lawn Green,87,103,76,Lawn Green,89,105,78,Lawn Green,87,103,77,Lawn Green,Lawn Green
+"Grid(1, 5)",130,150,113,Lawn Green,106,125,93,Lawn Green,116,137,94,Inchworm,110,132,93,Lawn Green,Lawn Green
+"Grid(1, 7)",120,135,96,Inchworm,120,135,94,Inchworm,47,60,40,Lawn Green,111,126,85,Inchworm,Inchworm
+"Grid(1, 8)",97,103,75,Orange,74,89,56,Inchworm,102,117,84,Inchworm,124,133,102,Inchworm,Inchworm
+"Grid(1, 9)",67,77,52,Inchworm,73,83,58,Inchworm,92,102,78,Inchworm,155,177,139,Lawn Green,Inchworm
+"Grid(1, 10)",76,90,65,Lawn Green,115,128,100,Inchworm,120,134,108,Lawn Green,80,94,69,Lawn Green,Lawn Green
+"Grid(1, 11)",95,109,84,Lawn Green,98,111,85,Inchworm,100,114,91,Lawn Green,112,126,101,Lawn Green,Lawn Green
+"Grid(1, 12)",96,105,78,Inchworm,148,153,130,Orange,115,121,109,Inchworm,85,88,79,Inchworm,Inchworm
+"Grid(1, 13)",93,103,78,Inchworm,75,89,63,Lawn Green,76,86,61,Inchworm,52,62,37,Inchworm,Inchworm
+"Grid(1, 14)",123,138,105,Inchworm,102,118,82,Inchworm,131,147,110,Inchworm,98,112,79,Inchworm,Inchworm
+"Grid(1, 15)",105,118,90,Inchworm,75,94,64,Lawn Green,125,150,111,Lawn Green,79,104,62,Lawn Green,Lawn Green
+"Grid(1, 16)",75,90,67,Lawn Green,107,117,92,Inchworm,80,98,74,Lawn Green,98,114,88,Lawn Green,Lawn Green
+"Grid(1, 17)",82,94,70,Lawn Green,102,116,90,Lawn Green,110,123,97,Inchworm,84,96,72,Lawn Green,Lawn Green
+"Grid(1, 18)",128,146,106,Inchworm,98,114,85,Lawn Green,107,124,88,Inchworm,122,143,100,Inchworm,Inchworm
+"Grid(1, 19)",87,115,66,Lawn Green,92,109,75,Lawn Green,78,96,70,Lawn Green,78,98,70,Lawn Green,Lawn Green
+"Grid(1, 20)",129,150,119,Lawn Green,123,144,113,Lawn Green,114,129,106,Lawn Green,74,87,67,Lawn Green,Lawn Green
+"Grid(1, 21)",110,138,100,Lawn Green,69,89,61,Lawn Green,104,125,94,Lawn Green,100,137,85,Lawn Green,Lawn Green
+"Grid(1, 22)",99,131,84,Lawn Green,105,141,79,Lawn Green,92,125,80,Lawn Green,144,187,118,Lawn Green,Lawn Green
+"Grid(1, 23)",98,126,86,Lawn Green,84,101,69,Lawn Green,90,107,75,Lawn Green,89,117,77,Lawn Green,Lawn Green
+"Grid(1, 24)",93,105,81,Lawn Green,74,86,62,Lawn Green,74,87,61,Lawn Green,75,88,62,Lawn Green,Lawn Green
+"Grid(1, 25)",149,156,115,Orange,136,143,110,Orange,136,143,109,Orange,105,122,90,Lawn Green,Orange
+"Grid(1, 26)",126,143,107,Inchworm,130,147,115,Lawn Green,124,141,109,Lawn Green,134,150,123,Lawn Green,Lawn Green
+"Grid(1, 29)",69,82,73,Celadon,69,85,59,Lawn Green,67,86,58,Lawn Green,50,74,40,Lawn Green,Lawn Green
+"Grid(1, 30)",79,92,74,Lawn Green,66,79,62,Lawn Green,65,78,61,Lawn Green,80,93,76,Lawn Green,Lawn Green
+"Grid(1, 31)",112,125,107,Lawn Green,74,87,70,Lawn Green,146,160,135,Lawn Green,127,140,122,Lawn Green,Lawn Green
+"Grid(1, 33)",78,90,80,Bright Green,68,80,70,Bright Green,111,118,110,Lawn Green,97,107,98,Bright Green,Bright Green
+"Grid(1, 35)",107,125,113,Celadon,83,96,86,Bright Green,118,136,120,Bright Green,121,140,121,Bright Green,Bright Green
+"Grid(1, 36)",255,214,234,Green,255,212,235,Rifle Green,255,209,237,Rifle Green,255,211,239,Rifle Green,Rifle Green
+"Grid(1, 38)",253,203,240,Rifle Green,252,221,239,Rifle Green,253,207,243,Dark Olive Green,253,201,239,Rifle Green,Rifle Green
+"Grid(2, 0)",102,119,85,Lawn Green,79,96,64,Lawn Green,65,82,48,Lawn Green,103,125,78,Inchworm,Lawn Green
+"Grid(2, 1)",91,104,74,Inchworm,87,101,68,Inchworm,80,94,61,Inchworm,80,91,61,Inchworm,Inchworm
+"Grid(2, 2)",98,114,75,Inchworm,93,109,70,Inchworm,91,107,68,Inchworm,112,117,87,Orange,Inchworm
+"Grid(2, 3)",157,171,136,Inchworm,130,145,114,Inchworm,97,108,76,Inchworm,141,156,127,Lawn Green,Inchworm
+"Grid(2, 4)",78,92,67,Lawn Green,123,139,112,Lawn Green,86,102,75,Lawn Green,126,142,115,Lawn Green,Lawn Green
+"Grid(2, 5)",103,107,92,Inchworm,88,95,79,Inchworm,95,109,84,Lawn Green,109,116,100,Inchworm,Inchworm
+"Grid(2, 6)",142,157,124,Inchworm,154,163,134,Inchworm,153,162,133,Inchworm,141,150,121,Inchworm,Inchworm
+"Grid(2, 7)",82,96,70,Lawn Green,91,105,80,Lawn Green,69,83,58,Lawn Green,89,103,78,Lawn Green,Lawn Green
+"Grid(2, 8)",87,97,72,Inchworm,94,108,75,Inchworm,111,122,90,Inchworm,88,99,67,Inchworm,Inchworm
+"Grid(2, 9)",109,125,89,Inchworm,92,109,73,Inchworm,123,139,100,Inchworm,170,186,150,Inchworm,Inchworm
+"Grid(2, 10)",91,101,76,Inchworm,122,132,97,Inchworm,140,150,116,Inchworm,124,137,107,Inchworm,Inchworm
+"Grid(2, 11)",140,185,102,Lawn Green,123,163,93,Lawn Green,89,101,77,Lawn Green,107,119,97,Lawn Green,Lawn Green
+"Grid(2, 12)",58,69,53,Lawn Green,60,71,55,Lawn Green,53,66,49,Lawn Green,112,112,102,Orange,Lawn Green
+"Grid(2, 14)",165,182,138,Inchworm,81,97,71,Lawn Green,58,72,47,Lawn Green,123,138,109,Lawn Green,Lawn Green
+"Grid(2, 16)",29,51,30,Bright Green,51,62,56,Celadon,60,85,63,Bright Green,75,93,77,Bright Green,Bright Green
+"Grid(2, 17)",75,91,80,Celadon,66,80,67,Bright Green,64,77,68,Celadon,66,79,70,Celadon,Celadon
+"Grid(2, 18)",88,125,91,Bright Green,104,137,106,Bright Green,90,125,92,Bright Green,106,146,111,Bright Green,Bright Green
+"Grid(2, 19)",42,61,42,Bright Green,83,99,70,Lawn Green,64,80,53,Lawn Green,93,109,82,Lawn Green,Lawn Green
+"Grid(2, 20)",87,102,71,Inchworm,123,138,107,Inchworm,97,112,81,Inchworm,82,97,66,Inchworm,Inchworm
+"Grid(2, 22)",84,98,73,Lawn Green,73,93,68,Lawn Green,93,112,90,Lawn Green,65,79,54,Lawn Green,Lawn Green
+"Grid(2, 23)",83,99,70,Lawn Green,79,99,72,Lawn Green,73,89,62,Lawn Green,87,103,74,Lawn Green,Lawn Green
+"Grid(2, 24)",63,82,54,Lawn Green,67,82,59,Lawn Green,60,79,51,Lawn Green,69,92,63,Lawn Green,Lawn Green
+"Grid(2, 25)",110,126,100,Lawn Green,92,110,84,Lawn Green,131,147,120,Lawn Green,52,65,39,Lawn Green,Lawn Green
+"Grid(2, 26)",92,106,80,Lawn Green,84,98,73,Lawn Green,102,117,88,Lawn Green,93,107,82,Lawn Green,Lawn Green
+"Grid(2, 29)",97,112,93,Lawn Green,110,122,108,Lawn Green,94,106,94,Bright Green,84,98,83,Lawn Green,Lawn Green
+"Grid(2, 30)",77,91,66,Lawn Green,105,112,94,Inchworm,68,82,59,Lawn Green,86,98,76,Lawn Green,Lawn Green
+"Grid(2, 31)",83,86,75,Inchworm,106,112,86,Orange,145,157,121,Inchworm,108,110,105,Inchworm,Inchworm
+"Grid(2, 32)",82,90,75,Lawn Green,85,93,78,Lawn Green,90,98,83,Lawn Green,117,128,112,Lawn Green,Lawn Green
+"Grid(2, 33)",93,107,84,Lawn Green,110,124,98,Lawn Green,59,72,65,Celadon,103,117,91,Lawn Green,Lawn Green
+"Grid(2, 34)",90,103,85,Lawn Green,97,109,97,Bright Green,88,101,84,Lawn Green,138,151,131,Lawn Green,Lawn Green
+"Grid(2, 35)",63,75,65,Bright Green,100,121,104,Bright Green,117,138,121,Bright Green,139,154,131,Lawn Green,Bright Green
+"Grid(2, 36)",69,84,65,Lawn Green,144,166,128,Lawn Green,141,161,124,Lawn Green,87,98,81,Lawn Green,Lawn Green
+"Grid(2, 37)",83,94,80,Lawn Green,99,110,93,Lawn Green,81,104,86,Bright Green,95,108,91,Lawn Green,Lawn Green
+"Grid(3, 0)",98,111,93,Lawn Green,78,93,60,Inchworm,69,84,65,Lawn Green,54,67,47,Lawn Green,Lawn Green
+"Grid(3, 1)",95,111,75,Inchworm,116,129,101,Inchworm,86,101,68,Inchworm,90,103,77,Inchworm,Inchworm
+"Grid(3, 2)",107,123,87,Inchworm,90,105,76,Lawn Green,140,162,116,Inchworm,136,153,111,Inchworm,Inchworm
+"Grid(3, 3)",90,103,77,Inchworm,105,114,87,Inchworm,96,105,78,Inchworm,54,63,36,Inchworm,Inchworm
+"Grid(3, 4)",93,109,80,Lawn Green,89,94,72,Orange,73,76,55,Orange,73,77,60,Orange,Orange
+"Grid(3, 7)",139,176,107,Lawn Green,144,182,123,Lawn Green,136,175,108,Lawn Green,140,179,114,Lawn Green,Lawn Green
+"Grid(3, 11)",116,142,113,Lawn Green,115,149,88,Lawn Green,140,172,125,Lawn Green,143,185,121,Lawn Green,Lawn Green
+"Grid(3, 12)",112,138,75,Inchworm,172,222,63,Inchworm,178,228,67,Inchworm,188,236,88,Inchworm,Inchworm
+"Grid(3, 14)",136,168,118,Lawn Green,77,108,66,Lawn Green,115,148,95,Lawn Green,113,150,99,Lawn Green,Lawn Green
+"Grid(3, 15)",102,154,92,Lawn Green,65,94,64,Lawn Green,82,124,76,Lawn Green,24,36,48,Dark Pastel Green,Lawn Green
+"Grid(3, 16)",42,60,46,Bright Green,100,149,93,Lawn Green,76,127,70,Lawn Green,138,164,119,Lawn Green,Lawn Green
+"Grid(3, 17)",87,115,75,Lawn Green,92,119,78,Lawn Green,100,128,88,Lawn Green,99,130,89,Lawn Green,Lawn Green
+"Grid(3, 18)",106,133,80,Lawn Green,78,107,53,Lawn Green,115,140,101,Lawn Green,102,127,87,Lawn Green,Lawn Green
+"Grid(3, 19)",141,166,98,Inchworm,150,171,102,Inchworm,145,170,105,Inchworm,148,173,108,Inchworm,Inchworm
+"Grid(3, 20)",115,134,89,Inchworm,80,103,57,Lawn Green,86,94,73,Inchworm,93,101,80,Inchworm,Inchworm
+"Grid(3, 21)",76,101,72,Lawn Green,101,129,91,Lawn Green,73,100,67,Lawn Green,97,125,87,Lawn Green,Lawn Green
+"Grid(3, 22)",83,103,68,Lawn Green,77,97,62,Lawn Green,72,91,59,Lawn Green,119,139,102,Lawn Green,Lawn Green
+"Grid(3, 23)",75,92,73,Lawn Green,82,97,76,Lawn Green,73,88,67,Lawn Green,89,104,83,Lawn Green,Lawn Green
+"Grid(3, 24)",78,93,70,Lawn Green,127,145,105,Inchworm,170,185,154,Inchworm,98,113,80,Inchworm,Inchworm
+"Grid(3, 26)",76,92,65,Lawn Green,137,153,126,Lawn Green,70,84,59,Lawn Green,107,122,93,Lawn Green,Lawn Green
+"Grid(3, 27)",78,98,71,Lawn Green,105,128,100,Lawn Green,71,91,64,Lawn Green,63,86,58,Lawn Green,Lawn Green
+"Grid(3, 28)",64,66,61,Inchworm,79,89,80,Bright Green,65,75,66,Bright Green,93,106,96,Bright Green,Bright Green
+"Grid(3, 29)",62,71,66,Celadon,69,78,77,Pistachio,75,84,79,Celadon,65,74,69,Celadon,Celadon
+"Grid(3, 33)",92,112,87,Lawn Green,107,119,99,Lawn Green,61,67,57,Lawn Green,69,75,65,Lawn Green,Lawn Green
+"Grid(3, 34)",83,94,78,Lawn Green,77,88,72,Lawn Green,64,76,62,Lawn Green,63,74,60,Lawn Green,Lawn Green
+"Grid(3, 35)",99,99,89,Orange,111,112,104,Orange,98,99,85,Orange,89,92,83,Inchworm,Orange
+"Grid(3, 36)",88,94,84,Lawn Green,125,130,110,Inchworm,83,89,79,Lawn Green,101,107,95,Lawn Green,Lawn Green
+"Grid(3, 37)",68,75,67,Lawn Green,84,89,82,Lawn Green,74,79,72,Lawn Green,82,87,81,Lawn Green,Lawn Green
+"Grid(4, 0)",103,113,86,Inchworm,94,104,70,Inchworm,118,125,91,Orange,107,118,86,Inchworm,Inchworm
+"Grid(4, 1)",97,111,76,Inchworm,119,135,99,Inchworm,101,116,83,Inchworm,81,95,62,Inchworm,Inchworm
+"Grid(4, 4)",116,137,94,Inchworm,66,75,48,Inchworm,168,180,140,Inchworm,135,153,101,Inchworm,Inchworm
+"Grid(4, 7)",74,87,57,Inchworm,125,153,94,Inchworm,161,171,134,Inchworm,76,89,59,Inchworm,Inchworm
+"Grid(4, 8)",110,122,100,Lawn Green,119,134,111,Lawn Green,106,120,97,Lawn Green,132,148,122,Lawn Green,Lawn Green
+"Grid(4, 9)",64,99,57,Lawn Green,112,147,107,Lawn Green,102,140,93,Lawn Green,141,157,120,Inchworm,Lawn Green
+"Grid(4, 10)",98,115,83,Lawn Green,126,141,98,Inchworm,138,149,117,Inchworm,106,122,85,Inchworm,Inchworm
+"Grid(4, 11)",99,138,91,Lawn Green,89,118,74,Lawn Green,105,125,90,Lawn Green,97,124,83,Lawn Green,Lawn Green
+"Grid(4, 12)",98,140,74,Lawn Green,93,135,71,Lawn Green,103,143,83,Lawn Green,114,159,92,Lawn Green,Lawn Green
+"Grid(4, 13)",149,200,123,Lawn Green,126,170,109,Lawn Green,107,153,91,Lawn Green,131,167,106,Lawn Green,Lawn Green
+"Grid(4, 14)",101,146,81,Lawn Green,119,160,102,Lawn Green,103,149,84,Lawn Green,123,165,102,Lawn Green,Lawn Green
+"Grid(4, 15)",100,137,93,Lawn Green,82,113,72,Lawn Green,79,118,71,Lawn Green,66,109,63,Lawn Green,Lawn Green
+"Grid(4, 16)",66,99,46,Lawn Green,122,154,107,Lawn Green,34,64,28,Lawn Green,102,134,85,Lawn Green,Lawn Green
+"Grid(4, 17)",102,126,90,Lawn Green,88,110,74,Lawn Green,103,130,89,Lawn Green,73,97,61,Lawn Green,Lawn Green
+"Grid(4, 18)",54,68,45,Lawn Green,36,46,35,Lawn Green,81,106,64,Lawn Green,83,104,73,Lawn Green,Lawn Green
+"Grid(4, 19)",150,108,171,Indigo,149,109,169,Indigo,215,173,255,Indigo,148,110,167,Indigo,Indigo
+"Grid(4, 20)",111,129,89,Inchworm,95,113,75,Inchworm,86,104,66,Inchworm,65,83,45,Inchworm,Inchworm
+"Grid(4, 21)",124,149,109,Lawn Green,94,116,77,Lawn Green,116,141,101,Lawn Green,136,161,121,Lawn Green,Lawn Green
+"Grid(4, 22)",45,58,41,Lawn Green,39,47,32,Lawn Green,124,154,100,Lawn Green,89,119,69,Lawn Green,Lawn Green
+"Grid(4, 23)",73,95,74,Bright Green,58,76,50,Lawn Green,103,134,92,Lawn Green,105,133,93,Lawn Green,Lawn Green
+"Grid(4, 25)",68,80,58,Lawn Green,66,78,56,Lawn Green,60,72,50,Lawn Green,82,94,72,Lawn Green,Lawn Green
+"Grid(4, 26)",120,134,108,Lawn Green,146,158,138,Lawn Green,111,125,99,Lawn Green,122,137,108,Lawn Green,Lawn Green
+"Grid(4, 27)",112,117,94,Orange,80,88,64,Inchworm,150,159,138,Inchworm,107,115,91,Inchworm,Inchworm
+"Grid(4, 28)",87,100,72,Inchworm,78,92,67,Lawn Green,85,99,73,Lawn Green,75,89,63,Lawn Green,Lawn Green
+"Grid(4, 29)",125,135,111,Inchworm,45,56,50,Celadon,101,117,81,Inchworm,92,102,78,Inchworm,Inchworm
+"Grid(4, 30)",79,97,71,Lawn Green,75,93,67,Lawn Green,76,94,68,Lawn Green,78,96,70,Lawn Green,Lawn Green
+"Grid(4, 32)",67,84,65,Lawn Green,76,93,75,Lawn Green,77,103,76,Lawn Green,70,89,69,Lawn Green,Lawn Green
+"Grid(4, 33)",110,121,107,Lawn Green,72,85,68,Lawn Green,100,111,97,Lawn Green,102,113,99,Lawn Green,Lawn Green
+"Grid(4, 36)",66,71,74,Asparagus,60,65,68,Asparagus,48,56,59,Asparagus,47,50,57,Dark Pastel Green,Asparagus
+"Grid(4, 38)",84,90,80,Lawn Green,91,97,85,Inchworm,98,104,94,Lawn Green,85,91,81,Lawn Green,Lawn Green
+"Grid(4, 39)",102,104,91,Orange,95,97,84,Orange,117,119,106,Orange,114,116,103,Orange,Orange
+"Grid(5, 0)",132,136,121,Inchworm,87,91,76,Inchworm,86,90,75,Inchworm,78,82,67,Inchworm,Inchworm
+"Grid(5, 2)",81,84,63,Orange,143,146,119,Orange,147,144,129,Orange,128,138,114,Inchworm,Orange
+"Grid(5, 5)",197,141,212,Pink,186,134,198,Pink,56,74,50,Lawn Green,198,138,210,Pink,Pink
+"Grid(5, 6)",49,62,34,Inchworm,88,104,75,Lawn Green,83,113,77,Lawn Green,57,83,48,Lawn Green,Lawn Green
+"Grid(5, 7)",99,120,77,Inchworm,88,101,71,Inchworm,76,90,64,Lawn Green,102,124,78,Inchworm,Inchworm
+"Grid(5, 8)",255,247,255,Dark Olive Green,255,246,255,Dark Olive Green,255,249,255,Dark Olive Green,255,246,254,Dark Olive Green,Dark Olive Green
+"Grid(5, 9)",157,96,176,Pink,158,97,175,Pink,255,246,255,Dark Olive Green,158,97,177,Pink,Pink
+"Grid(5, 10)",224,170,254,Indigo,225,171,255,Indigo,221,167,255,Indigo,225,172,254,Indigo,Indigo
+"Grid(5, 11)",220,167,255,Indigo,221,169,254,Indigo,220,168,253,Indigo,219,166,254,Indigo,Indigo
+"Grid(5, 13)",196,135,212,Pink,196,135,213,Pink,194,136,213,Pink,193,135,212,Pink,Pink
+"Grid(5, 14)",204,146,222,Pink,194,137,206,Pink,202,144,220,Pink,198,140,214,Pink,Pink
+"Grid(5, 15)",142,102,162,Indigo,143,103,165,Indigo,138,96,160,Indigo,138,98,161,Indigo,Indigo
+"Grid(5, 16)",215,166,255,Indigo,216,165,255,Indigo,216,166,255,Indigo,216,166,253,Indigo,Indigo
+"Grid(5, 17)",189,144,211,Indigo,189,142,212,Indigo,187,142,207,Indigo,180,130,189,Pink,Indigo
+"Grid(5, 19)",222,166,255,Indigo,220,166,254,Indigo,222,168,254,Indigo,218,171,249,Indigo,Indigo
+"Grid(5, 20)",180,138,204,Indigo,178,137,205,Indigo,196,154,220,Indigo,190,140,213,Indigo,Indigo
+"Grid(5, 21)",209,169,255,Blue,211,169,255,Blue,209,170,253,Blue,209,170,255,Blue,Blue
+"Grid(5, 22)",209,169,255,Blue,211,168,255,Blue,209,170,253,Blue,211,169,253,Indigo,Blue
+"Grid(5, 24)",37,40,29,Inchworm,40,43,32,Inchworm,35,38,27,Inchworm,36,39,28,Inchworm,Inchworm
+"Grid(5, 26)",101,119,77,Inchworm,109,127,87,Inchworm,127,144,108,Inchworm,106,121,88,Inchworm,Inchworm
+"Grid(5, 27)",93,107,82,Lawn Green,98,120,81,Lawn Green,112,139,96,Lawn Green,94,115,82,Lawn Green,Lawn Green
+"Grid(5, 28)",98,114,85,Lawn Green,100,116,87,Lawn Green,96,112,83,Lawn Green,98,114,87,Lawn Green,Lawn Green
+"Grid(5, 29)",67,79,67,Bright Green,123,139,112,Lawn Green,87,103,77,Lawn Green,76,92,63,Lawn Green,Lawn Green
+"Grid(5, 30)",65,84,56,Lawn Green,109,129,94,Lawn Green,53,72,44,Lawn Green,93,112,84,Lawn Green,Lawn Green
+"Grid(5, 31)",96,110,84,Lawn Green,95,109,83,Lawn Green,100,116,90,Lawn Green,75,91,65,Lawn Green,Lawn Green
+"Grid(5, 32)",103,110,94,Inchworm,92,95,78,Orange,98,105,89,Inchworm,72,79,63,Inchworm,Inchworm
+"Grid(5, 33)",73,79,67,Lawn Green,76,79,70,Inchworm,58,61,52,Inchworm,61,64,55,Inchworm,Inchworm
+"Grid(5, 34)",44,54,56,Dollar Bill,102,122,94,Lawn Green,104,125,92,Lawn Green,161,180,152,Lawn Green,Lawn Green
+"Grid(5, 35)",92,108,82,Lawn Green,81,96,77,Lawn Green,94,109,90,Lawn Green,77,92,73,Lawn Green,Lawn Green
+"Grid(5, 36)",37,42,48,Dark Pastel Green,132,147,118,Lawn Green,168,182,156,Lawn Green,127,141,115,Lawn Green,Lawn Green
+"Grid(5, 38)",62,68,58,Lawn Green,54,59,52,Lawn Green,56,64,51,Lawn Green,38,46,35,Lawn Green,Lawn Green
+"Grid(5, 39)",83,86,75,Inchworm,88,91,84,Inchworm,97,101,87,Inchworm,69,70,64,Orange,Inchworm
+"Grid(6, 0)",121,123,102,Orange,153,155,134,Orange,91,93,72,Orange,112,114,92,Orange,Orange
+"Grid(6, 1)",80,85,55,Orange,83,96,79,Lawn Green,93,106,89,Lawn Green,72,85,68,Lawn Green,Lawn Green
+"Grid(6, 3)",93,124,83,Lawn Green,96,126,88,Lawn Green,121,144,118,Lawn Green,86,111,79,Lawn Green,Lawn Green
+"Grid(6, 4)",87,124,81,Lawn Green,81,123,75,Lawn Green,114,150,86,Lawn Green,83,122,75,Lawn Green,Lawn Green
+"Grid(6, 5)",93,106,88,Lawn Green,83,108,78,Lawn Green,70,83,65,Lawn Green,85,112,81,Lawn Green,Lawn Green
+"Grid(6, 6)",73,98,66,Lawn Green,107,125,99,Lawn Green,92,125,80,Lawn Green,75,102,67,Lawn Green,Lawn Green
+"Grid(6, 8)",255,247,255,Dark Olive Green,249,243,255,Indigo,255,248,255,Dark Olive Green,255,246,255,Dark Olive Green,Dark Olive Green
+"Grid(6, 9)",194,133,211,Pink,190,132,209,Pink,191,133,210,Pink,193,132,210,Pink,Pink
+"Grid(6, 11)",193,136,213,Indigo,194,136,213,Pink,220,167,255,Indigo,222,170,255,Indigo,Indigo
+"Grid(6, 12)",219,169,255,Indigo,222,167,255,Indigo,214,167,248,Indigo,222,173,252,Indigo,Indigo
+"Grid(6, 14)",196,134,209,Pink,197,135,210,Pink,194,133,210,Pink,195,134,212,Pink,Pink
+"Grid(6, 17)",222,195,226,Pink,190,162,211,Indigo,82,71,87,Indigo,192,162,212,Indigo,Indigo
+"Grid(6, 19)",192,140,215,Indigo,195,143,218,Indigo,193,139,217,Indigo,194,142,217,Indigo,Indigo
+"Grid(6, 20)",218,165,255,Indigo,219,166,255,Indigo,219,166,254,Indigo,220,167,255,Indigo,Indigo
+"Grid(6, 21)",177,135,199,Indigo,191,145,210,Indigo,179,137,201,Indigo,183,141,205,Indigo,Indigo
+"Grid(6, 24)",75,88,68,Lawn Green,30,44,21,Lawn Green,92,107,84,Lawn Green,57,64,48,Inchworm,Lawn Green
+"Grid(6, 25)",73,85,61,Lawn Green,71,83,61,Lawn Green,99,113,88,Lawn Green,84,97,71,Lawn Green,Lawn Green
+"Grid(6, 26)",92,106,73,Inchworm,56,68,54,Lawn Green,40,52,38,Lawn Green,49,54,47,Lawn Green,Lawn Green
+"Grid(6, 27)",84,98,75,Lawn Green,121,137,108,Lawn Green,100,115,92,Lawn Green,66,79,51,Inchworm,Lawn Green
+"Grid(6, 29)",31,42,36,Celadon,38,49,43,Celadon,60,71,65,Celadon,37,48,42,Celadon,Celadon
+"Grid(6, 32)",114,116,95,Orange,96,93,78,Orange,103,100,85,Orange,56,64,41,Inchworm,Orange
+"Grid(6, 33)",101,96,76,Orange,123,118,98,Orange,130,125,105,Orange,138,133,113,Orange,Orange
+"Grid(6, 34)",67,91,59,Lawn Green,102,119,85,Lawn Green,107,130,88,Lawn Green,154,173,143,Lawn Green,Lawn Green
+"Grid(6, 35)",31,41,42,Dollar Bill,33,43,44,Dollar Bill,30,40,41,Dollar Bill,37,47,46,Pistachio,Dollar Bill
+"Grid(6, 37)",71,82,68,Lawn Green,77,88,74,Lawn Green,84,95,78,Lawn Green,79,87,74,Lawn Green,Lawn Green
+"Grid(6, 38)",119,123,100,Orange,122,126,103,Orange,146,149,130,Orange,106,111,89,Orange,Orange
+"Grid(6, 39)",139,143,118,Orange,140,145,113,Orange,136,140,113,Orange,135,139,112,Orange,Orange
+"Grid(7, 2)",106,168,61,Lawn Green,120,178,68,Lawn Green,121,185,71,Lawn Green,107,161,63,Lawn Green,Lawn Green
+"Grid(7, 3)",113,145,98,Lawn Green,108,139,95,Lawn Green,51,88,21,Lawn Green,57,85,44,Lawn Green,Lawn Green
+"Grid(7, 4)",115,154,101,Lawn Green,81,120,73,Lawn Green,100,138,91,Lawn Green,85,123,76,Lawn Green,Lawn Green
+"Grid(7, 5)",79,108,78,Lawn Green,75,104,73,Lawn Green,74,103,72,Lawn Green,89,118,88,Lawn Green,Lawn Green
+"Grid(7, 6)",60,84,58,Lawn Green,72,98,69,Lawn Green,69,93,67,Lawn Green,83,110,77,Lawn Green,Lawn Green
+"Grid(7, 7)",122,171,90,Lawn Green,75,101,72,Lawn Green,113,150,99,Lawn Green,96,126,92,Lawn Green,Lawn Green
+"Grid(7, 8)",255,244,255,Dark Olive Green,255,245,255,Dark Olive Green,254,246,255,Pink,255,248,255,Dark Olive Green,Dark Olive Green
+"Grid(7, 10)",191,135,210,Indigo,189,135,211,Indigo,190,136,212,Indigo,191,134,211,Indigo,Indigo
+"Grid(7, 11)",188,134,210,Indigo,189,134,217,Indigo,200,145,226,Indigo,196,140,215,Indigo,Indigo
+"Grid(7, 13)",238,224,255,Blue,237,221,255,Blue,229,213,252,Blue,245,212,255,Pink,Blue
+"Grid(7, 15)",221,201,254,Blue,226,213,255,Blue,222,211,254,Blue,214,202,248,Blue,Blue
+"Grid(7, 17)",20,15,37,India Green,26,16,40,Blue,68,51,105,Blue,24,14,38,Blue,Blue
+"Grid(7, 18)",183,136,208,Indigo,207,157,230,Indigo,22,23,44,Camouflage Green,188,141,213,Indigo,Indigo
+"Grid(7, 19)",213,160,238,Indigo,189,135,213,Indigo,192,138,216,Indigo,195,142,220,Indigo,Indigo
+"Grid(7, 20)",211,163,239,Indigo,201,153,229,Indigo,180,132,208,Indigo,188,140,216,Indigo,Indigo
+"Grid(7, 21)",255,198,220,Green,57,33,67,Indigo,255,200,225,Green,255,196,211,Green,Green
+"Grid(7, 23)",45,60,39,Lawn Green,117,149,100,Lawn Green,97,129,80,Lawn Green,125,158,103,Lawn Green,Lawn Green
+"Grid(7, 25)",49,61,49,Bright Green,35,47,37,Bright Green,49,61,51,Bright Green,27,39,29,Bright Green,Bright Green
+"Grid(7, 26)",50,51,46,Orange,56,57,52,Orange,38,39,34,Orange,30,31,26,Orange,Orange
+"Grid(7, 29)",87,91,76,Inchworm,66,73,57,Inchworm,74,83,66,Lawn Green,64,70,56,Inchworm,Inchworm
+"Grid(7, 31)",216,172,255,Indigo,23,25,20,Inchworm,214,172,255,Indigo,31,29,32,Indigo,Indigo
+"Grid(7, 32)",80,91,74,Lawn Green,85,94,77,Lawn Green,89,98,79,Inchworm,91,100,83,Lawn Green,Lawn Green
+"Grid(7, 33)",186,136,199,Pink,101,72,118,Indigo,110,77,124,Indigo,107,78,122,Indigo,Indigo
+"Grid(7, 34)",182,131,198,Pink,181,131,200,Indigo,188,131,208,Indigo,184,131,203,Indigo,Indigo
+"Grid(7, 35)",186,133,203,Pink,184,133,200,Pink,188,132,203,Pink,188,132,205,Pink,Pink
+"Grid(7, 38)",56,61,54,Lawn Green,50,53,60,Dark Pastel Green,80,91,75,Lawn Green,73,86,69,Lawn Green,Lawn Green
+"Grid(7, 39)",54,72,50,Lawn Green,53,67,44,Lawn Green,145,165,128,Lawn Green,147,167,130,Lawn Green,Lawn Green
+"Grid(8, 0)",75,92,47,Inchworm,100,112,72,Inchworm,92,109,55,Inchworm,101,118,73,Inchworm,Inchworm
+"Grid(8, 1)",90,109,63,Inchworm,94,112,74,Inchworm,72,89,53,Inchworm,97,115,73,Inchworm,Inchworm
+"Grid(8, 2)",110,128,86,Inchworm,94,112,72,Inchworm,112,130,88,Inchworm,141,159,117,Inchworm,Inchworm
+"Grid(8, 3)",55,82,39,Lawn Green,77,107,55,Lawn Green,113,143,91,Lawn Green,130,163,110,Lawn Green,Lawn Green
+"Grid(8, 4)",97,131,80,Lawn Green,100,132,85,Lawn Green,131,163,114,Lawn Green,123,155,108,Lawn Green,Lawn Green
+"Grid(8, 5)",147,186,123,Lawn Green,108,138,88,Lawn Green,130,165,111,Lawn Green,97,135,84,Lawn Green,Lawn Green
+"Grid(8, 6)",100,144,69,Lawn Green,105,153,77,Lawn Green,74,105,73,Lawn Green,4,45,0,Lawn Green,Lawn Green
+"Grid(8, 7)",255,224,255,Dark Olive Green,255,230,255,Dark Olive Green,255,229,255,Dark Olive Green,104,157,69,Lawn Green,Dark Olive Green
+"Grid(8, 8)",253,234,253,Dark Olive Green,253,231,252,Dark Olive Green,251,239,253,Pink,254,235,254,Dark Olive Green,Dark Olive Green
+"Grid(8, 9)",255,239,255,Dark Olive Green,255,233,255,Dark Olive Green,255,231,255,Dark Olive Green,255,242,255,Dark Olive Green,Dark Olive Green
+"Grid(8, 10)",255,240,255,Dark Olive Green,255,230,252,Dark Olive Green,255,229,252,Dark Olive Green,253,225,247,Dark Olive Green,Dark Olive Green
+"Grid(8, 12)",107,119,105,Lawn Green,109,124,103,Lawn Green,81,91,64,Inchworm,101,129,91,Lawn Green,Lawn Green
+"Grid(8, 14)",111,180,100,Lawn Green,0,46,0,Bright Green,12,60,10,Lawn Green,119,169,116,Lawn Green,Lawn Green
+"Grid(8, 15)",85,92,74,Inchworm,32,48,22,Lawn Green,88,94,80,Inchworm,98,105,89,Inchworm,Inchworm
+"Grid(8, 16)",255,205,255,Dark Olive Green,255,209,255,Dark Olive Green,255,206,255,Dark Olive Green,250,198,246,Dark Olive Green,Dark Olive Green
+"Grid(8, 18)",23,19,42,India Green,18,14,39,India Green,20,17,36,India Green,22,19,40,India Green,India Green
+"Grid(8, 19)",35,40,72,Camouflage Green,36,39,72,Camouflage Green,34,40,72,Camouflage Green,38,38,72,India Green,Camouflage Green
+"Grid(8, 22)",255,240,255,Dark Olive Green,255,236,255,Dark Olive Green,82,46,82,Dark Olive Green,255,233,255,Dark Olive Green,Dark Olive Green
+"Grid(8, 24)",23,28,32,Asparagus,7,14,20,Asparagus,25,30,34,Asparagus,21,29,32,Asparagus,Asparagus
+"Grid(8, 26)",255,241,255,Dark Olive Green,255,242,255,Dark Olive Green,255,240,255,Dark Olive Green,27,32,26,Lawn Green,Dark Olive Green
+"Grid(8, 28)",105,112,79,Orange,115,122,89,Orange,104,111,78,Orange,95,104,77,Inchworm,Orange
+"Grid(8, 29)",34,31,52,India Green,32,28,51,India Green,32,25,56,India Green,25,21,48,India Green,India Green
+"Grid(8, 32)",102,127,88,Lawn Green,72,98,63,Lawn Green,64,90,55,Lawn Green,105,130,91,Lawn Green,Lawn Green
+"Grid(8, 36)",33,34,54,Camouflage Green,28,29,49,Camouflage Green,30,31,51,Camouflage Green,28,29,47,Camouflage Green,Camouflage Green
+"Grid(8, 39)",49,57,59,Dollar Bill,90,102,62,Inchworm,97,110,67,Inchworm,102,115,71,Inchworm,Inchworm
+"Grid(9, 1)",94,115,74,Lawn Green,97,115,75,Inchworm,55,75,38,Lawn Green,62,82,45,Lawn Green,Lawn Green
+"Grid(9, 2)",143,171,110,Inchworm,123,151,90,Inchworm,140,169,105,Inchworm,146,174,113,Inchworm,Inchworm
+"Grid(9, 3)",48,77,29,Lawn Green,133,154,113,Lawn Green,103,135,70,Inchworm,73,108,42,Lawn Green,Lawn Green
+"Grid(9, 4)",106,140,79,Lawn Green,122,156,95,Lawn Green,115,149,88,Lawn Green,99,130,71,Lawn Green,Lawn Green
+"Grid(9, 5)",101,133,70,Lawn Green,76,107,47,Lawn Green,112,136,100,Lawn Green,127,161,100,Lawn Green,Lawn Green
+"Grid(9, 6)",98,139,61,Lawn Green,97,129,90,Lawn Green,104,134,96,Lawn Green,91,117,78,Lawn Green,Lawn Green
+"Grid(9, 8)",0,33,0,Bright Green,36,78,12,Lawn Green,105,152,82,Lawn Green,97,140,71,Lawn Green,Lawn Green
+"Grid(9, 9)",40,69,23,Lawn Green,111,151,88,Lawn Green,122,163,97,Lawn Green,92,130,71,Lawn Green,Lawn Green
+"Grid(9, 10)",106,153,85,Lawn Green,86,136,67,Lawn Green,122,169,101,Lawn Green,103,148,81,Lawn Green,Lawn Green
+"Grid(9, 15)",148,100,158,Pink,149,101,159,Pink,149,101,161,Pink,150,100,161,Pink,Pink
+"Grid(9, 16)",213,157,230,Pink,212,156,229,Pink,215,162,232,Pink,210,157,227,Pink,Pink
+"Grid(9, 18)",117,149,48,Inchworm,135,158,76,Inchworm,142,166,78,Inchworm,146,180,96,Inchworm,Inchworm
+"Grid(9, 19)",254,240,253,Dark Olive Green,255,241,254,Dark Olive Green,255,240,253,Dark Olive Green,254,242,252,Dark Olive Green,Dark Olive Green
+"Grid(9, 23)",61,73,49,Lawn Green,93,110,92,Lawn Green,59,76,57,Lawn Green,89,103,86,Lawn Green,Lawn Green
+"Grid(9, 28)",60,67,59,Lawn Green,60,72,52,Lawn Green,68,79,62,Lawn Green,72,83,66,Lawn Green,Lawn Green
+"Grid(9, 29)",21,21,29,India Green,22,22,30,India Green,22,22,32,India Green,24,22,33,India Green,India Green
+"Grid(9, 33)",65,91,44,Lawn Green,85,111,66,Lawn Green,104,130,85,Lawn Green,75,100,60,Lawn Green,Lawn Green
+"Grid(9, 34)",81,84,65,Orange,85,82,75,Red,89,84,81,Red,92,89,82,Red,Red
+"Grid(9, 35)",80,103,74,Lawn Green,110,113,96,Orange,128,128,116,Orange,109,112,95,Orange,Orange
+"Grid(9, 36)",95,123,65,Inchworm,96,124,66,Inchworm,90,118,60,Inchworm,97,125,67,Inchworm,Inchworm
+"Grid(9, 38)",86,104,88,Bright Green,78,96,80,Bright Green,45,59,44,Lawn Green,90,107,91,Bright Green,Bright Green
+"Grid(10, 0)",55,73,49,Lawn Green,47,66,36,Lawn Green,33,50,31,Lawn Green,37,47,38,Bright Green,Lawn Green
+"Grid(10, 1)",38,67,23,Lawn Green,93,128,86,Lawn Green,88,102,76,Lawn Green,75,103,62,Lawn Green,Lawn Green
+"Grid(10, 2)",118,148,88,Lawn Green,92,122,68,Lawn Green,76,107,50,Lawn Green,124,155,95,Lawn Green,Lawn Green
+"Grid(10, 3)",115,146,87,Lawn Green,122,153,93,Lawn Green,111,142,83,Lawn Green,106,137,77,Lawn Green,Lawn Green
+"Grid(10, 4)",89,121,58,Lawn Green,121,153,90,Lawn Green,83,117,57,Lawn Green,111,143,80,Lawn Green,Lawn Green
+"Grid(10, 5)",93,123,73,Lawn Green,116,151,85,Lawn Green,74,111,44,Lawn Green,113,152,85,Lawn Green,Lawn Green
+"Grid(10, 6)",94,116,80,Lawn Green,83,105,69,Lawn Green,79,103,67,Lawn Green,67,91,57,Lawn Green,Lawn Green
+"Grid(10, 7)",101,141,81,Lawn Green,102,147,82,Lawn Green,110,157,87,Lawn Green,89,118,70,Lawn Green,Lawn Green
+"Grid(10, 8)",0,29,0,Bright Green,102,142,82,Lawn Green,116,155,102,Lawn Green,49,76,33,Lawn Green,Lawn Green
+"Grid(10, 10)",108,127,97,Lawn Green,107,125,99,Lawn Green,136,188,106,Lawn Green,107,159,84,Lawn Green,Lawn Green
+"Grid(10, 11)",81,106,76,Lawn Green,64,84,56,Lawn Green,79,99,71,Lawn Green,66,84,58,Lawn Green,Lawn Green
+"Grid(10, 12)",129,158,114,Lawn Green,73,97,49,Lawn Green,119,139,102,Lawn Green,106,133,88,Lawn Green,Lawn Green
+"Grid(10, 13)",251,203,245,Dark Olive Green,251,205,242,Dark Olive Green,253,206,242,Dark Olive Green,255,205,255,Dark Olive Green,Dark Olive Green
+"Grid(10, 14)",251,200,231,Rifle Green,252,198,230,Rifle Green,253,203,232,Rifle Green,255,203,235,Rifle Green,Rifle Green
+"Grid(10, 15)",150,100,159,Pink,151,101,160,Pink,151,101,162,Pink,150,100,163,Pink,Pink
+"Grid(10, 16)",211,157,233,Indigo,209,157,231,Indigo,207,155,227,Indigo,214,160,236,Indigo,Indigo
+"Grid(10, 17)",209,157,231,Indigo,211,159,233,Indigo,213,161,236,Indigo,207,155,229,Indigo,Indigo
+"Grid(10, 18)",9,60,0,Lawn Green,155,204,99,Inchworm,103,144,66,Lawn Green,53,105,22,Lawn Green,Lawn Green
+"Grid(10, 22)",44,67,39,Lawn Green,21,46,17,Lawn Green,26,49,23,Lawn Green,50,75,46,Lawn Green,Lawn Green
+"Grid(10, 28)",255,211,224,Green,249,205,220,Green,247,196,215,Green,154,174,123,Inchworm,Green
+"Grid(10, 29)",244,189,194,black,234,181,191,black,249,217,218,black,251,198,206,black,black
+"Grid(10, 32)",25,24,30,India Green,24,23,29,India Green,25,24,29,India Green,24,24,32,India Green,India Green
+"Grid(10, 33)",15,15,27,India Green,17,17,27,India Green,23,23,31,India Green,23,21,32,India Green,India Green
+"Grid(10, 34)",18,43,13,Lawn Green,92,114,75,Lawn Green,69,91,52,Lawn Green,44,68,32,Lawn Green,Lawn Green
+"Grid(10, 35)",99,124,84,Lawn Green,36,43,35,Lawn Green,75,102,59,Lawn Green,69,92,66,Lawn Green,Lawn Green
+"Grid(10, 36)",84,111,68,Lawn Green,73,100,55,Lawn Green,77,101,67,Lawn Green,83,108,76,Lawn Green,Lawn Green
+"Grid(10, 38)",170,118,190,Indigo,167,118,184,Indigo,170,119,188,Indigo,168,119,185,Indigo,Indigo
+"Grid(10, 39)",168,118,189,Indigo,169,119,188,Indigo,168,118,187,Indigo,168,117,186,Indigo,Indigo
+"Grid(11, 0)",92,127,69,Lawn Green,153,188,120,Lawn Green,158,149,110,Orange,96,141,72,Lawn Green,Lawn Green
+"Grid(11, 1)",113,145,96,Lawn Green,115,143,94,Lawn Green,130,171,93,Lawn Green,135,174,95,Inchworm,Lawn Green
+"Grid(11, 2)",104,128,94,Lawn Green,93,117,83,Lawn Green,112,133,100,Lawn Green,97,118,87,Lawn Green,Lawn Green
+"Grid(11, 4)",69,88,58,Lawn Green,99,124,84,Lawn Green,115,142,89,Lawn Green,88,107,79,Lawn Green,Lawn Green
+"Grid(11, 5)",97,122,82,Lawn Green,76,101,59,Lawn Green,105,130,88,Lawn Green,90,115,75,Lawn Green,Lawn Green
+"Grid(11, 6)",100,118,80,Inchworm,119,153,93,Lawn Green,78,101,57,Lawn Green,91,119,78,Lawn Green,Lawn Green
+"Grid(11, 7)",125,172,100,Lawn Green,71,118,48,Lawn Green,102,152,81,Lawn Green,91,137,75,Lawn Green,Lawn Green
+"Grid(11, 8)",116,146,94,Lawn Green,0,28,0,Bright Green,75,107,57,Lawn Green,98,128,74,Lawn Green,Lawn Green
+"Grid(11, 9)",104,149,90,Lawn Green,122,177,109,Lawn Green,31,86,18,Lawn Green,27,70,14,Lawn Green,Lawn Green
+"Grid(11, 10)",83,98,75,Lawn Green,74,89,66,Lawn Green,69,84,61,Lawn Green,74,89,68,Lawn Green,Lawn Green
+"Grid(11, 11)",78,96,72,Lawn Green,89,107,83,Lawn Green,96,114,92,Lawn Green,71,89,67,Lawn Green,Lawn Green
+"Grid(11, 12)",63,92,48,Lawn Green,83,94,78,Lawn Green,137,166,122,Lawn Green,86,115,71,Lawn Green,Lawn Green
+"Grid(11, 13)",255,198,255,Dark Olive Green,255,205,254,Dark Olive Green,255,207,255,Dark Olive Green,255,210,255,Dark Olive Green,Dark Olive Green
+"Grid(11, 14)",255,200,250,Dark Olive Green,249,193,242,Dark Olive Green,255,195,246,Dark Olive Green,255,203,249,Dark Olive Green,Dark Olive Green
+"Grid(11, 15)",154,102,168,Pink,155,103,169,Pink,152,102,165,Pink,181,130,196,Pink,Pink
+"Grid(11, 16)",184,139,206,Indigo,185,140,207,Indigo,190,148,214,Indigo,199,152,220,Indigo,Indigo
+"Grid(11, 17)",205,162,234,Indigo,202,156,220,Indigo,209,164,231,Indigo,194,152,216,Indigo,Indigo
+"Grid(11, 19)",126,202,94,Lawn Green,142,218,110,Lawn Green,129,207,98,Lawn Green,126,204,95,Lawn Green,Lawn Green
+"Grid(11, 20)",29,46,40,Pastel Green,73,101,63,Lawn Green,73,102,56,Lawn Green,81,106,77,Lawn Green,Lawn Green
+"Grid(11, 21)",116,142,103,Lawn Green,110,135,116,Bright Green,96,125,81,Lawn Green,88,116,65,Lawn Green,Lawn Green
+"Grid(11, 25)",255,214,255,Dark Olive Green,255,213,255,Dark Olive Green,255,212,255,Dark Olive Green,255,215,255,Dark Olive Green,Dark Olive Green
+"Grid(11, 26)",255,212,248,Dark Olive Green,255,212,247,Dark Olive Green,252,210,246,Dark Olive Green,254,215,246,Dark Olive Green,Dark Olive Green
+"Grid(11, 28)",255,204,237,Rifle Green,255,203,239,Rifle Green,254,205,237,Rifle Green,253,206,240,Rifle Green,Rifle Green
+"Grid(11, 29)",254,209,242,Rifle Green,254,207,239,Rifle Green,254,207,241,Rifle Green,255,206,236,Rifle Green,Rifle Green
+"Grid(11, 31)",255,209,253,Dark Olive Green,255,210,251,Dark Olive Green,253,214,255,Pink,254,212,252,Dark Olive Green,Dark Olive Green
+"Grid(11, 32)",255,205,254,Dark Olive Green,255,208,254,Dark Olive Green,255,209,253,Dark Olive Green,255,212,255,Dark Olive Green,Dark Olive Green
+"Grid(11, 33)",22,21,29,India Green,25,24,30,India Green,26,25,31,India Green,23,22,30,India Green,India Green
+"Grid(11, 36)",95,126,82,Lawn Green,56,87,43,Lawn Green,90,117,76,Lawn Green,98,129,87,Lawn Green,Lawn Green
+"Grid(11, 38)",246,227,255,Indigo,248,227,255,Pink,246,225,255,Indigo,244,223,254,Indigo,Indigo
+"Grid(11, 39)",173,117,190,Pink,170,118,184,Pink,174,117,188,Pink,173,117,188,Pink,Pink
+"Grid(12, 0)",130,161,102,Lawn Green,103,137,76,Lawn Green,138,166,107,Inchworm,115,146,86,Lawn Green,Lawn Green
+"Grid(12, 1)",112,140,89,Lawn Green,113,141,90,Lawn Green,31,50,20,Lawn Green,117,153,83,Lawn Green,Lawn Green
+"Grid(12, 2)",121,142,99,Inchworm,129,151,105,Inchworm,100,122,75,Inchworm,101,123,85,Lawn Green,Inchworm
+"Grid(12, 3)",120,148,99,Lawn Green,137,164,113,Lawn Green,131,167,106,Lawn Green,123,151,102,Lawn Green,Lawn Green
+"Grid(12, 4)",87,123,61,Lawn Green,87,125,64,Lawn Green,80,116,54,Lawn Green,75,116,48,Lawn Green,Lawn Green
+"Grid(12, 5)",94,127,74,Lawn Green,113,146,91,Lawn Green,102,135,80,Lawn Green,122,155,100,Lawn Green,Lawn Green
+"Grid(12, 7)",137,180,108,Lawn Green,128,171,99,Lawn Green,129,179,108,Lawn Green,115,158,87,Lawn Green,Lawn Green
+"Grid(12, 8)",133,162,104,Lawn Green,124,154,90,Inchworm,59,86,35,Lawn Green,103,132,74,Lawn Green,Lawn Green
+"Grid(12, 11)",150,159,96,Orange,181,191,120,Orange,171,180,117,Orange,199,209,148,Orange,Orange
+"Grid(12, 12)",32,47,28,Lawn Green,134,157,87,Inchworm,103,125,60,Inchworm,141,164,94,Inchworm,Inchworm
+"Grid(12, 16)",255,231,255,Dark Olive Green,56,45,75,Blue,55,44,78,Blue,57,48,79,Blue,Blue
+"Grid(12, 17)",82,51,85,Pink,91,59,100,Pink,62,48,73,Indigo,54,35,55,Pink,Pink
+"Grid(12, 18)",112,129,87,Inchworm,97,113,74,Inchworm,80,97,61,Inchworm,81,88,70,Inchworm,Inchworm
+"Grid(12, 19)",125,202,98,Lawn Green,128,207,100,Lawn Green,123,200,98,Lawn Green,124,199,98,Lawn Green,Lawn Green
+"Grid(12, 20)",131,198,103,Lawn Green,132,199,102,Lawn Green,131,198,101,Lawn Green,132,199,104,Lawn Green,Lawn Green
+"Grid(12, 21)",119,143,117,Lawn Green,84,109,79,Lawn Green,73,98,66,Lawn Green,65,90,58,Lawn Green,Lawn Green
+"Grid(12, 23)",229,153,191,Green,225,141,175,Green,222,136,171,Green,225,139,174,Green,Green
+"Grid(12, 24)",239,142,173,Green,236,141,171,Green,241,144,175,Green,238,141,172,Green,Green
+"Grid(12, 25)",254,209,252,Dark Olive Green,255,208,250,Dark Olive Green,254,209,250,Dark Olive Green,255,208,246,Dark Olive Green,Dark Olive Green
+"Grid(12, 26)",2,118,255,Dark Pastel Green,0,120,255,Dark Pastel Green,3,121,255,Dark Pastel Green,2,122,255,Dark Pastel Green,Dark Pastel Green
+"Grid(12, 27)",0,119,252,Dark Pastel Green,0,121,251,Dark Pastel Green,0,120,255,Dark Pastel Green,1,118,255,Dark Pastel Green,Dark Pastel Green
+"Grid(12, 28)",1,112,253,Dark Pastel Green,0,111,252,Dark Pastel Green,0,110,251,Dark Pastel Green,0,112,250,Dark Pastel Green,Dark Pastel Green
+"Grid(12, 29)",63,53,103,India Green,65,45,94,Blue,70,55,112,Blue,68,65,72,Blue,Blue
+"Grid(12, 31)",253,211,249,Dark Olive Green,255,210,247,Dark Olive Green,253,211,247,Dark Olive Green,255,211,247,Dark Olive Green,Dark Olive Green
+"Grid(12, 32)",254,208,254,Dark Olive Green,254,207,253,Dark Olive Green,253,210,255,Pink,255,204,250,Dark Olive Green,Dark Olive Green
+"Grid(12, 36)",40,46,34,Lawn Green,50,52,47,Inchworm,59,66,50,Inchworm,30,32,27,Inchworm,Inchworm
+"Grid(12, 37)",122,105,89,Red,95,83,67,Red,110,97,80,Red,142,135,109,Orange,Red
+"Grid(12, 38)",173,141,146,black,171,139,144,black,175,143,148,black,174,142,147,black,black
+"Grid(12, 39)",245,231,255,Indigo,241,226,255,Indigo,244,229,252,Indigo,237,222,255,Blue,Indigo
+"Grid(13, 0)",107,135,74,Inchworm,134,170,60,Inchworm,90,105,72,Inchworm,63,78,49,Lawn Green,Inchworm
+"Grid(13, 1)",122,155,84,Inchworm,113,146,75,Inchworm,134,168,94,Inchworm,97,130,61,Inchworm,Inchworm
+"Grid(13, 2)",110,128,80,Inchworm,156,169,115,Orange,79,94,63,Inchworm,104,120,71,Inchworm,Inchworm
+"Grid(13, 3)",158,192,108,Inchworm,150,181,101,Inchworm,88,117,63,Lawn Green,154,187,108,Inchworm,Inchworm
+"Grid(13, 4)",131,161,109,Lawn Green,140,180,118,Lawn Green,144,175,116,Lawn Green,124,158,98,Lawn Green,Lawn Green
+"Grid(13, 5)",130,169,106,Lawn Green,99,138,75,Lawn Green,105,144,81,Lawn Green,138,174,102,Lawn Green,Lawn Green
+"Grid(13, 6)",117,138,82,Inchworm,123,146,90,Inchworm,139,176,98,Inchworm,93,121,63,Inchworm,Inchworm
+"Grid(13, 8)",136,173,103,Lawn Green,150,190,119,Lawn Green,137,177,104,Lawn Green,126,152,113,Lawn Green,Lawn Green
+"Grid(13, 9)",45,81,20,Lawn Green,72,108,46,Lawn Green,76,111,43,Lawn Green,26,61,0,Lawn Green,Lawn Green
+"Grid(13, 10)",92,97,31,Orange,177,198,123,Inchworm,31,49,0,Inchworm,152,173,108,Inchworm,Inchworm
+"Grid(13, 11)",100,130,78,Lawn Green,173,185,119,Orange,112,123,67,Orange,109,120,54,Orange,Orange
+"Grid(13, 16)",34,26,37,Indigo,31,23,36,Indigo,49,35,60,Indigo,33,25,36,Indigo,Indigo
+"Grid(13, 17)",26,26,34,India Green,20,23,28,Dark Pastel Green,25,28,35,Dark Pastel Green,24,27,34,Dark Pastel Green,Dark Pastel Green
+"Grid(13, 18)",22,24,21,Lawn Green,23,33,32,Pistachio,103,121,97,Lawn Green,80,89,72,Lawn Green,Lawn Green
+"Grid(13, 19)",87,118,74,Lawn Green,46,84,45,Lawn Green,94,114,89,Lawn Green,91,113,92,Bright Green,Lawn Green
+"Grid(13, 20)",67,105,54,Lawn Green,69,108,55,Lawn Green,91,125,75,Lawn Green,114,148,97,Lawn Green,Lawn Green
+"Grid(13, 21)",66,61,93,India Green,60,55,85,India Green,62,58,85,India Green,63,57,83,India Green,India Green
+"Grid(13, 22)",83,28,47,Green,205,133,157,Green,203,140,161,Green,62,0,18,Green,Green
+"Grid(13, 23)",183,175,252,India Green,181,174,251,India Green,183,174,253,India Green,197,113,137,Green,India Green
+"Grid(13, 25)",0,120,255,Dark Pastel Green,0,119,255,Dark Pastel Green,2,120,255,Dark Pastel Green,3,119,255,Dark Pastel Green,Dark Pastel Green
+"Grid(13, 26)",0,112,250,Dark Pastel Green,1,114,252,Dark Pastel Green,0,109,250,Dark Pastel Green,0,111,252,Dark Pastel Green,Dark Pastel Green
+"Grid(13, 27)",3,115,253,Dark Pastel Green,0,114,249,Dark Pastel Green,0,115,250,Dark Pastel Green,3,116,254,Dark Pastel Green,Dark Pastel Green
+"Grid(13, 28)",4,105,247,Dark Pastel Green,5,111,249,Dark Pastel Green,1,106,249,Dark Pastel Green,7,119,255,Dark Pastel Green,Dark Pastel Green
+"Grid(13, 29)",4,109,250,Dark Pastel Green,6,106,252,Dark Pastel Green,12,115,254,Dark Pastel Green,4,109,252,Dark Pastel Green,Dark Pastel Green
+"Grid(13, 31)",132,143,100,Inchworm,118,128,91,Inchworm,109,120,78,Inchworm,149,159,122,Inchworm,Inchworm
+"Grid(13, 32)",141,158,88,Orange,119,132,89,Inchworm,97,110,67,Inchworm,115,133,95,Inchworm,Inchworm
+"Grid(13, 33)",94,119,64,Inchworm,61,80,34,Inchworm,83,103,54,Inchworm,70,89,44,Inchworm,Inchworm
+"Grid(13, 36)",36,43,36,Bright Green,31,43,33,Bright Green,22,34,24,Bright Green,122,133,91,Inchworm,Bright Green
+"Grid(13, 38)",174,147,140,black,149,124,120,black,180,153,146,black,170,139,137,black,black
+"Grid(14, 0)",124,144,95,Inchworm,132,152,103,Inchworm,139,159,108,Inchworm,122,142,93,Inchworm,Inchworm
+"Grid(14, 1)",92,106,70,Inchworm,110,125,86,Inchworm,107,118,84,Inchworm,105,125,76,Inchworm,Inchworm
+"Grid(14, 2)",96,109,66,Inchworm,99,111,73,Inchworm,121,145,93,Inchworm,125,145,94,Inchworm,Inchworm
+"Grid(14, 3)",126,157,89,Inchworm,158,186,111,Inchworm,144,176,103,Inchworm,150,181,111,Inchworm,Inchworm
+"Grid(14, 5)",190,218,167,Lawn Green,153,169,120,Inchworm,122,140,82,Inchworm,165,181,132,Inchworm,Inchworm
+"Grid(14, 8)",45,80,26,Lawn Green,158,199,121,Lawn Green,129,165,103,Lawn Green,67,102,44,Lawn Green,Lawn Green
+"Grid(14, 9)",37,53,27,Lawn Green,9,25,0,Lawn Green,35,51,25,Lawn Green,78,100,64,Lawn Green,Lawn Green
+"Grid(14, 10)",84,110,62,Lawn Green,97,127,75,Lawn Green,108,133,93,Lawn Green,89,116,63,Lawn Green,Lawn Green
+"Grid(14, 11)",107,130,101,Lawn Green,90,111,78,Lawn Green,102,123,90,Lawn Green,96,117,86,Lawn Green,Lawn Green
+"Grid(14, 12)",134,146,124,Lawn Green,116,145,114,Lawn Green,87,116,85,Lawn Green,32,35,26,Inchworm,Lawn Green
+"Grid(14, 13)",112,112,84,Orange,121,116,97,Orange,110,105,85,Orange,107,105,82,Orange,Orange
+"Grid(14, 15)",253,224,228,black,254,219,223,black,255,221,222,black,255,235,198,Red,black
+"Grid(14, 16)",83,95,75,Lawn Green,75,86,69,Lawn Green,89,103,70,Inchworm,78,90,70,Lawn Green,Lawn Green
+"Grid(14, 17)",76,146,57,Lawn Green,130,194,108,Lawn Green,96,121,91,Lawn Green,103,143,81,Lawn Green,Lawn Green
+"Grid(14, 19)",76,109,64,Lawn Green,96,129,84,Lawn Green,90,123,78,Lawn Green,109,140,98,Lawn Green,Lawn Green
+"Grid(14, 20)",96,132,88,Lawn Green,123,160,108,Lawn Green,107,145,96,Lawn Green,110,146,102,Lawn Green,Lawn Green
+"Grid(14, 23)",216,119,160,Green,218,122,160,Green,217,121,159,Green,215,117,155,Green,Green
+"Grid(14, 24)",218,120,159,Green,217,119,158,Green,212,123,169,Rifle Green,219,124,166,Green,Green
+"Grid(14, 25)",1,112,254,Dark Pastel Green,0,111,252,Dark Pastel Green,2,113,254,Dark Pastel Green,0,111,253,Dark Pastel Green,Dark Pastel Green
+"Grid(14, 26)",1,121,255,Dark Pastel Green,2,127,255,Dark Pastel Green,0,121,254,Dark Pastel Green,0,119,255,Dark Pastel Green,Dark Pastel Green
+"Grid(14, 29)",35,32,59,India Green,37,34,61,India Green,42,39,66,India Green,34,31,58,India Green,India Green
+"Grid(14, 30)",67,72,50,Orange,88,93,71,Orange,81,86,64,Orange,32,32,40,India Green,Orange
+"Grid(14, 31)",93,106,80,Lawn Green,46,56,48,Bright Green,116,128,106,Lawn Green,63,74,57,Lawn Green,Lawn Green
+"Grid(14, 32)",122,142,83,Inchworm,123,143,84,Inchworm,101,129,81,Lawn Green,128,146,94,Inchworm,Inchworm
+"Grid(14, 33)",61,112,46,Lawn Green,56,93,41,Lawn Green,99,150,84,Lawn Green,35,76,16,Lawn Green,Lawn Green
+"Grid(14, 34)",27,31,34,Asparagus,30,31,35,Camouflage Green,30,31,36,Camouflage Green,28,29,34,Camouflage Green,Camouflage Green
+"Grid(14, 35)",99,125,80,Lawn Green,92,118,73,Lawn Green,49,65,38,Lawn Green,83,102,82,Lawn Green,Lawn Green
+"Grid(14, 36)",59,70,53,Lawn Green,53,62,45,Lawn Green,31,34,27,Inchworm,70,82,68,Lawn Green,Lawn Green
+"Grid(14, 38)",98,130,81,Lawn Green,47,73,25,Lawn Green,45,64,19,Inchworm,49,70,29,Lawn Green,Lawn Green
+"Grid(14, 39)",115,159,80,Lawn Green,121,164,82,Lawn Green,99,144,61,Lawn Green,119,164,83,Lawn Green,Lawn Green
+"Grid(15, 0)",127,137,87,Orange,95,112,60,Inchworm,149,170,113,Inchworm,117,140,84,Inchworm,Inchworm
+"Grid(15, 1)",173,181,132,Orange,42,44,39,Inchworm,165,175,114,Orange,174,183,130,Orange,Orange
+"Grid(15, 2)",167,177,117,Orange,177,185,128,Orange,173,184,126,Orange,157,179,104,Inchworm,Orange
+"Grid(15, 3)",168,191,123,Inchworm,166,186,127,Inchworm,118,138,77,Inchworm,153,170,116,Inchworm,Inchworm
+"Grid(15, 4)",166,183,128,Inchworm,152,166,115,Inchworm,167,185,127,Inchworm,144,158,107,Inchworm,Inchworm
+"Grid(15, 5)",109,120,78,Inchworm,186,207,140,Inchworm,104,130,56,Inchworm,113,125,85,Inchworm,Inchworm
+"Grid(15, 6)",161,189,102,Inchworm,52,74,9,Inchworm,114,134,85,Inchworm,146,177,83,Inchworm,Inchworm
+"Grid(15, 7)",152,182,112,Inchworm,116,147,77,Inchworm,134,168,94,Inchworm,22,27,7,Inchworm,Inchworm
+"Grid(15, 8)",174,214,126,Inchworm,152,188,101,Inchworm,113,151,66,Inchworm,157,194,114,Inchworm,Inchworm
+"Grid(15, 9)",85,112,67,Lawn Green,109,138,92,Lawn Green,105,137,87,Lawn Green,120,149,101,Lawn Green,Lawn Green
+"Grid(15, 10)",112,138,90,Lawn Green,95,121,74,Lawn Green,103,129,84,Lawn Green,96,123,78,Lawn Green,Lawn Green
+"Grid(15, 12)",124,150,111,Lawn Green,95,128,83,Lawn Green,103,139,95,Lawn Green,110,138,89,Lawn Green,Lawn Green
+"Grid(15, 13)",123,151,100,Lawn Green,124,147,103,Lawn Green,69,93,45,Lawn Green,101,95,83,Red,Lawn Green
+"Grid(15, 14)",146,160,98,Orange,104,100,89,Red,108,100,87,Red,121,106,85,Red,Red
+"Grid(15, 15)",72,62,70,Dark Olive Green,67,62,66,Dark Olive Green,249,210,205,black,70,63,70,Dark Olive Green,Dark Olive Green
+"Grid(15, 16)",114,149,83,Lawn Green,92,127,35,Inchworm,120,155,65,Inchworm,134,155,78,Inchworm,Inchworm
+"Grid(15, 17)",58,86,38,Lawn Green,87,118,58,Lawn Green,91,120,62,Lawn Green,114,145,88,Lawn Green,Lawn Green
+"Grid(15, 19)",77,113,77,Bright Green,75,111,75,Bright Green,54,90,54,Bright Green,75,111,73,Lawn Green,Bright Green
+"Grid(15, 20)",76,113,70,Lawn Green,107,144,101,Lawn Green,134,171,117,Lawn Green,67,106,61,Lawn Green,Lawn Green
+"Grid(15, 21)",255,251,223,Orange,249,242,213,Orange,255,251,219,Orange,255,245,220,Red,Orange
+"Grid(15, 23)",219,124,166,Green,217,125,164,Green,220,123,166,Green,216,126,164,Green,Green
+"Grid(15, 24)",223,126,167,Green,225,129,167,Green,224,127,172,Green,223,127,165,Green,Green
+"Grid(15, 25)",89,83,119,India Green,87,81,117,India Green,85,79,113,India Green,88,82,118,India Green,India Green
+"Grid(15, 26)",81,75,111,India Green,80,74,110,India Green,79,73,109,India Green,85,79,113,India Green,India Green
+"Grid(15, 27)",104,144,94,Lawn Green,60,102,52,Lawn Green,100,140,88,Lawn Green,102,142,90,Lawn Green,Lawn Green
+"Grid(15, 29)",28,48,23,Lawn Green,75,89,66,Lawn Green,68,88,60,Lawn Green,146,168,132,Lawn Green,Lawn Green
+"Grid(15, 30)",18,21,26,Dark Pastel Green,20,23,28,Dark Pastel Green,21,24,29,Dark Pastel Green,21,25,26,Dollar Bill,Dark Pastel Green
+"Grid(15, 32)",43,64,31,Lawn Green,121,145,111,Lawn Green,65,80,59,Lawn Green,38,54,25,Lawn Green,Lawn Green
+"Grid(15, 33)",43,79,31,Lawn Green,7,47,0,Lawn Green,119,167,105,Lawn Green,125,163,106,Lawn Green,Lawn Green
+"Grid(15, 36)",61,60,55,Orange,51,52,47,Orange,90,122,72,Lawn Green,65,64,59,Orange,Orange
+"Grid(15, 38)",69,72,53,Orange,106,113,79,Orange,32,35,18,Orange,92,102,77,Inchworm,Orange
+"Grid(15, 39)",63,104,38,Lawn Green,186,219,138,Inchworm,78,110,34,Inchworm,114,147,66,Inchworm,Inchworm
+"Grid(16, 0)",99,117,65,Inchworm,92,109,64,Inchworm,102,120,68,Inchworm,109,127,75,Inchworm,Inchworm
+"Grid(16, 1)",152,160,121,Orange,145,148,119,Orange,153,164,121,Inchworm,172,175,148,Orange,Orange
+"Grid(16, 2)",144,160,98,Inchworm,144,163,97,Inchworm,162,181,117,Inchworm,125,128,107,Orange,Inchworm
+"Grid(16, 3)",158,174,135,Inchworm,123,136,108,Inchworm,159,172,144,Inchworm,39,62,18,Lawn Green,Inchworm
+"Grid(16, 4)",136,149,123,Lawn Green,105,118,92,Lawn Green,90,103,77,Inchworm,97,110,84,Lawn Green,Lawn Green
+"Grid(16, 8)",148,192,103,Inchworm,145,185,97,Inchworm,116,163,57,Inchworm,16,57,0,Lawn Green,Inchworm
+"Grid(16, 9)",30,44,27,Lawn Green,30,36,24,Lawn Green,107,123,96,Lawn Green,127,146,118,Lawn Green,Lawn Green
+"Grid(16, 10)",113,163,94,Lawn Green,99,155,90,Lawn Green,119,164,105,Lawn Green,119,147,106,Lawn Green,Lawn Green
+"Grid(16, 11)",120,152,79,Inchworm,130,162,87,Inchworm,114,149,81,Lawn Green,146,176,104,Inchworm,Inchworm
+"Grid(16, 12)",96,119,90,Lawn Green,106,134,83,Lawn Green,0,19,0,Bright Green,99,125,78,Lawn Green,Lawn Green
+"Grid(16, 13)",111,139,88,Lawn Green,91,117,69,Lawn Green,88,114,66,Lawn Green,120,146,98,Lawn Green,Lawn Green
+"Grid(16, 14)",151,221,99,Lawn Green,167,178,112,Orange,182,193,125,Orange,158,167,102,Orange,Orange
+"Grid(16, 16)",145,169,95,Inchworm,84,107,53,Inchworm,117,140,84,Inchworm,150,174,100,Inchworm,Inchworm
+"Grid(16, 17)",39,54,31,Lawn Green,33,48,25,Lawn Green,0,6,0,Bright Green,129,147,121,Lawn Green,Lawn Green
+"Grid(16, 18)",116,144,96,Lawn Green,97,122,82,Lawn Green,113,138,98,Lawn Green,106,133,90,Lawn Green,Lawn Green
+"Grid(16, 19)",3,26,10,Celadon,11,34,18,Celadon,20,42,29,Celadon,99,134,94,Lawn Green,Celadon
+"Grid(16, 20)",253,222,217,black,253,222,219,black,254,223,220,black,254,219,217,black,black
+"Grid(16, 21)",254,225,221,black,253,224,218,black,254,225,217,black,253,226,219,black,black
+"Grid(16, 23)",79,72,105,India Green,76,69,102,India Green,77,70,103,India Green,78,71,104,India Green,India Green
+"Grid(16, 26)",52,50,61,India Green,32,44,30,Lawn Green,49,47,58,India Green,42,40,51,India Green,India Green
+"Grid(16, 27)",118,162,111,Lawn Green,97,136,89,Lawn Green,102,144,94,Lawn Green,87,125,76,Lawn Green,Lawn Green
+"Grid(16, 28)",31,36,39,Asparagus,22,27,30,Asparagus,22,27,31,Asparagus,24,27,34,Dark Pastel Green,Asparagus
+"Grid(16, 29)",112,148,104,Lawn Green,116,144,106,Lawn Green,36,60,34,Lawn Green,18,42,16,Lawn Green,Lawn Green
+"Grid(16, 30)",28,33,36,Asparagus,29,34,37,Asparagus,29,32,39,Dark Pastel Green,24,28,31,Asparagus,Asparagus
+"Grid(16, 31)",17,20,29,Camouflage Green,18,21,28,Dark Pastel Green,18,21,26,Dark Pastel Green,17,22,28,Dark Pastel Green,Dark Pastel Green
+"Grid(16, 32)",26,37,29,Celadon,67,86,58,Lawn Green,110,130,103,Lawn Green,60,80,53,Lawn Green,Lawn Green
+"Grid(16, 33)",138,170,123,Lawn Green,118,147,99,Lawn Green,143,174,130,Lawn Green,99,144,89,Lawn Green,Lawn Green
+"Grid(16, 34)",139,134,102,Orange,152,146,110,Orange,149,141,104,Orange,150,145,113,Orange,Orange
+"Grid(16, 37)",39,45,31,Inchworm,30,36,22,Inchworm,36,42,28,Inchworm,79,86,70,Inchworm,Inchworm
+"Grid(16, 38)",87,99,59,Inchworm,101,112,70,Inchworm,102,115,72,Inchworm,130,133,90,Orange,Inchworm
+"Grid(17, 1)",150,165,122,Inchworm,143,159,120,Inchworm,142,153,110,Inchworm,136,152,113,Inchworm,Inchworm
+"Grid(17, 2)",138,159,103,Inchworm,146,167,110,Inchworm,165,189,105,Inchworm,145,167,94,Inchworm,Inchworm
+"Grid(17, 4)",84,107,65,Lawn Green,175,196,127,Inchworm,205,226,151,Inchworm,125,155,91,Inchworm,Inchworm
+"Grid(17, 5)",135,157,93,Inchworm,166,184,124,Inchworm,98,118,65,Inchworm,163,190,121,Inchworm,Inchworm
+"Grid(17, 6)",160,178,118,Inchworm,175,192,140,Inchworm,191,217,143,Inchworm,151,148,103,Orange,Inchworm
+"Grid(17, 7)",180,216,146,Lawn Green,124,141,105,Inchworm,87,118,48,Inchworm,137,171,97,Inchworm,Inchworm
+"Grid(17, 8)",125,172,76,Inchworm,145,188,98,Inchworm,138,185,89,Inchworm,128,171,79,Inchworm,Inchworm
+"Grid(17, 9)",113,172,78,Lawn Green,123,180,86,Lawn Green,132,187,94,Lawn Green,124,174,111,Lawn Green,Lawn Green
+"Grid(17, 10)",105,160,95,Lawn Green,96,152,77,Lawn Green,115,167,103,Lawn Green,101,157,94,Lawn Green,Lawn Green
+"Grid(17, 11)",133,164,104,Lawn Green,168,180,142,Inchworm,151,175,127,Lawn Green,125,154,100,Lawn Green,Lawn Green
+"Grid(17, 13)",123,152,96,Lawn Green,86,115,61,Lawn Green,87,115,66,Lawn Green,74,107,54,Lawn Green,Lawn Green
+"Grid(17, 14)",152,177,120,Inchworm,81,106,48,Inchworm,145,169,109,Inchworm,140,164,102,Inchworm,Inchworm
+"Grid(17, 15)",26,38,26,Bright Green,29,42,32,Bright Green,25,46,27,Bright Green,28,41,32,Celadon,Bright Green
+"Grid(17, 17)",106,116,82,Inchworm,66,82,46,Inchworm,101,111,76,Inchworm,98,116,90,Lawn Green,Inchworm
+"Grid(17, 18)",100,111,79,Inchworm,74,88,55,Inchworm,97,113,77,Inchworm,96,112,76,Inchworm,Inchworm
+"Grid(17, 20)",255,232,221,Red,255,233,218,Red,251,228,210,Red,255,227,219,black,Red
+"Grid(17, 21)",255,229,218,Red,254,226,215,Red,253,229,217,Red,255,228,217,Red,Red
+"Grid(17, 23)",75,67,91,Blue,81,75,103,India Green,63,59,84,India Green,87,82,105,India Green,India Green
+"Grid(17, 29)",117,152,88,Lawn Green,167,207,134,Lawn Green,72,113,45,Lawn Green,102,141,74,Lawn Green,Lawn Green
+"Grid(17, 31)",26,25,30,India Green,30,33,38,Dark Pastel Green,34,34,42,India Green,27,26,31,India Green,India Green
+"Grid(17, 32)",120,139,111,Lawn Green,115,132,100,Lawn Green,60,73,47,Lawn Green,70,83,55,Inchworm,Lawn Green
+"Grid(17, 33)",145,175,113,Inchworm,131,168,101,Lawn Green,124,155,88,Inchworm,93,123,61,Inchworm,Inchworm
+"Grid(17, 34)",124,136,100,Inchworm,52,64,42,Lawn Green,58,71,51,Lawn Green,70,83,63,Lawn Green,Lawn Green
+"Grid(17, 35)",80,98,56,Inchworm,81,88,54,Orange,74,92,52,Inchworm,79,95,56,Inchworm,Inchworm
+"Grid(17, 36)",24,39,20,Lawn Green,27,45,19,Lawn Green,101,122,91,Lawn Green,55,66,36,Inchworm,Lawn Green
+"Grid(17, 37)",128,172,109,Lawn Green,174,152,129,Red,137,121,96,Red,145,127,107,Red,Red
+"Grid(18, 0)",142,163,107,Inchworm,29,38,21,Lawn Green,160,180,121,Inchworm,119,138,83,Inchworm,Inchworm
+"Grid(18, 1)",142,143,127,Orange,142,145,124,Orange,122,147,82,Inchworm,172,176,153,Orange,Orange
+"Grid(18, 2)",174,206,121,Inchworm,158,184,113,Inchworm,116,151,59,Inchworm,199,233,136,Inchworm,Inchworm
+"Grid(18, 3)",165,192,111,Inchworm,199,222,154,Inchworm,163,190,113,Inchworm,190,218,134,Inchworm,Inchworm
+"Grid(18, 4)",143,173,103,Inchworm,155,185,115,Inchworm,175,205,135,Inchworm,171,201,131,Inchworm,Inchworm
+"Grid(18, 5)",105,120,77,Inchworm,184,207,135,Inchworm,142,163,107,Inchworm,157,178,119,Inchworm,Inchworm
+"Grid(18, 6)",23,42,0,Inchworm,167,190,122,Inchworm,183,201,149,Inchworm,120,135,104,Inchworm,Inchworm
+"Grid(18, 7)",15,25,0,Inchworm,127,162,80,Inchworm,91,123,48,Inchworm,142,184,108,Lawn Green,Inchworm
+"Grid(18, 8)",129,182,92,Lawn Green,210,255,146,Inchworm,137,188,96,Lawn Green,108,161,71,Lawn Green,Lawn Green
+"Grid(18, 9)",110,161,82,Lawn Green,71,112,46,Lawn Green,39,68,20,Lawn Green,147,160,114,Inchworm,Lawn Green
+"Grid(18, 10)",141,183,120,Lawn Green,114,154,91,Lawn Green,87,127,65,Lawn Green,133,165,90,Inchworm,Lawn Green
+"Grid(18, 11)",97,113,84,Lawn Green,130,161,81,Inchworm,121,149,109,Lawn Green,38,63,31,Lawn Green,Lawn Green
+"Grid(18, 12)",133,171,84,Inchworm,138,177,88,Inchworm,150,189,100,Inchworm,132,167,83,Inchworm,Inchworm
+"Grid(18, 13)",162,192,122,Inchworm,150,193,114,Lawn Green,108,127,97,Lawn Green,35,65,15,Lawn Green,Lawn Green
+"Grid(18, 14)",146,171,106,Inchworm,155,187,122,Inchworm,137,172,106,Lawn Green,149,177,118,Inchworm,Inchworm
+"Grid(18, 18)",97,101,78,Orange,97,101,76,Orange,95,99,74,Orange,100,104,79,Orange,Orange
+"Grid(18, 20)",106,139,82,Lawn Green,51,89,32,Lawn Green,47,83,39,Lawn Green,105,124,79,Inchworm,Lawn Green
+"Grid(18, 21)",102,137,97,Lawn Green,107,138,81,Lawn Green,99,125,78,Lawn Green,114,143,95,Lawn Green,Lawn Green
+"Grid(18, 22)",33,33,43,India Green,33,33,45,India Green,33,32,46,India Green,31,31,43,India Green,India Green
+"Grid(18, 24)",123,130,97,Orange,114,118,91,Orange,102,104,90,Orange,104,106,92,Orange,Orange
+"Grid(18, 25)",151,153,113,Orange,185,183,142,Orange,149,150,108,Orange,179,180,138,Orange,Orange
+"Grid(18, 26)",133,171,94,Inchworm,126,146,97,Inchworm,106,120,85,Inchworm,222,207,176,Red,Inchworm
+"Grid(18, 30)",117,143,82,Inchworm,86,110,52,Inchworm,17,36,0,Lawn Green,150,179,113,Inchworm,Inchworm
+"Grid(18, 31)",20,33,26,Celadon,17,29,25,Pastel Green,18,31,24,Celadon,19,32,23,Celadon,Celadon
+"Grid(18, 32)",77,90,60,Inchworm,83,97,64,Inchworm,148,150,113,Orange,97,107,83,Inchworm,Inchworm
+"Grid(18, 33)",34,38,39,Dollar Bill,26,30,31,Dollar Bill,27,31,32,Dollar Bill,50,55,49,Lawn Green,Dollar Bill
+"Grid(18, 34)",42,55,37,Lawn Green,41,52,44,Celadon,32,39,31,Lawn Green,63,76,56,Lawn Green,Lawn Green
+"Grid(18, 35)",86,102,63,Inchworm,77,93,56,Inchworm,80,96,59,Inchworm,94,111,69,Inchworm,Inchworm
+"Grid(18, 39)",255,199,208,black,243,188,194,black,236,181,186,black,251,207,206,black,black
+"Grid(19, 0)",139,169,97,Inchworm,139,175,88,Inchworm,175,211,124,Inchworm,157,191,104,Inchworm,Inchworm
+"Grid(19, 1)",150,179,95,Inchworm,14,33,0,Lawn Green,191,221,125,Inchworm,138,168,98,Inchworm,Inchworm
+"Grid(19, 2)",163,198,106,Inchworm,143,182,89,Inchworm,171,208,102,Inchworm,161,202,108,Inchworm,Inchworm
+"Grid(19, 3)",113,135,88,Inchworm,145,180,86,Inchworm,148,189,93,Inchworm,161,203,101,Inchworm,Inchworm
+"Grid(19, 4)",140,167,98,Inchworm,41,64,22,Lawn Green,142,169,118,Lawn Green,20,48,7,Lawn Green,Lawn Green
+"Grid(19, 5)",149,169,106,Inchworm,142,156,121,Inchworm,140,165,99,Inchworm,115,136,77,Inchworm,Inchworm
+"Grid(19, 6)",145,180,100,Inchworm,134,167,86,Inchworm,120,158,75,Inchworm,134,168,92,Inchworm,Inchworm
+"Grid(19, 7)",142,172,112,Lawn Green,151,181,121,Lawn Green,135,165,105,Lawn Green,166,181,124,Inchworm,Lawn Green
+"Grid(19, 8)",146,174,97,Inchworm,103,133,69,Inchworm,172,183,141,Inchworm,148,177,121,Lawn Green,Inchworm
+"Grid(19, 9)",92,112,59,Inchworm,83,101,51,Inchworm,109,135,62,Inchworm,99,131,64,Inchworm,Inchworm
+"Grid(19, 10)",141,178,108,Lawn Green,127,158,90,Inchworm,113,145,82,Lawn Green,129,164,96,Lawn Green,Lawn Green
+"Grid(19, 12)",126,158,73,Inchworm,129,161,76,Inchworm,133,172,83,Inchworm,124,162,75,Inchworm,Inchworm
+"Grid(19, 13)",154,183,116,Inchworm,159,191,124,Inchworm,110,146,82,Lawn Green,152,181,114,Inchworm,Inchworm
+"Grid(19, 14)",157,178,122,Inchworm,128,152,90,Inchworm,151,177,116,Inchworm,127,155,94,Inchworm,Inchworm
+"Grid(19, 15)",118,157,92,Lawn Green,62,101,36,Lawn Green,137,177,107,Lawn Green,147,183,111,Lawn Green,Lawn Green
+"Grid(19, 16)",88,130,66,Lawn Green,67,109,43,Lawn Green,130,172,106,Lawn Green,115,160,103,Lawn Green,Lawn Green
+"Grid(19, 17)",51,75,39,Lawn Green,107,144,77,Lawn Green,48,73,31,Lawn Green,75,103,55,Lawn Green,Lawn Green
+"Grid(19, 19)",60,89,67,Bright Green,81,110,88,Bright Green,86,115,93,Bright Green,41,66,44,Bright Green,Bright Green
+"Grid(19, 20)",80,110,76,Lawn Green,96,125,94,Lawn Green,74,100,73,Lawn Green,81,110,80,Lawn Green,Lawn Green
+"Grid(19, 21)",92,126,65,Lawn Green,68,103,37,Lawn Green,121,156,88,Lawn Green,106,140,66,Inchworm,Lawn Green
+"Grid(19, 25)",146,168,122,Inchworm,64,83,38,Inchworm,95,113,71,Inchworm,167,175,134,Orange,Inchworm
+"Grid(19, 28)",139,166,121,Lawn Green,29,54,15,Lawn Green,102,128,93,Lawn Green,91,115,81,Lawn Green,Lawn Green
+"Grid(19, 29)",97,126,70,Lawn Green,75,104,48,Lawn Green,98,127,69,Lawn Green,93,120,65,Inchworm,Lawn Green
+"Grid(19, 30)",143,168,102,Inchworm,131,152,85,Inchworm,166,185,119,Inchworm,145,168,100,Inchworm,Inchworm
+"Grid(19, 31)",106,148,82,Lawn Green,128,138,86,Orange,119,127,76,Orange,126,136,84,Orange,Orange
+"Grid(19, 32)",60,62,51,Orange,150,153,134,Orange,137,140,121,Orange,87,89,67,Orange,Orange
+"Grid(19, 34)",94,112,74,Inchworm,89,106,70,Inchworm,99,117,79,Inchworm,109,127,89,Inchworm,Inchworm
+"Grid(19, 37)",103,124,67,Inchworm,95,119,87,Lawn Green,73,98,41,Inchworm,124,150,89,Inchworm,Inchworm
+"Grid(19, 38)",162,192,120,Inchworm,123,149,84,Inchworm,88,106,68,Inchworm,64,95,38,Lawn Green,Inchworm
+"Grid(20, 0)",153,175,110,Inchworm,151,166,97,Orange,182,214,129,Inchworm,133,167,81,Inchworm,Inchworm
+"Grid(20, 2)",110,162,77,Lawn Green,115,166,89,Lawn Green,126,178,93,Lawn Green,99,150,71,Lawn Green,Lawn Green
+"Grid(20, 3)",41,79,0,Inchworm,131,177,113,Lawn Green,115,153,68,Inchworm,151,190,99,Inchworm,Inchworm
+"Grid(20, 4)",145,171,97,Inchworm,142,167,99,Inchworm,136,178,76,Inchworm,161,186,120,Inchworm,Inchworm
+"Grid(20, 5)",141,175,89,Inchworm,147,176,94,Inchworm,141,169,92,Inchworm,145,172,103,Inchworm,Inchworm
+"Grid(20, 6)",138,174,86,Inchworm,127,167,94,Lawn Green,111,140,74,Inchworm,142,178,90,Inchworm,Inchworm
+"Grid(20, 8)",42,55,25,Inchworm,133,147,59,Orange,158,180,95,Inchworm,176,200,106,Inchworm,Inchworm
+"Grid(20, 10)",140,172,107,Inchworm,134,160,97,Inchworm,141,173,108,Inchworm,118,150,87,Lawn Green,Inchworm
+"Grid(20, 11)",115,145,81,Inchworm,120,150,86,Inchworm,100,129,65,Inchworm,137,167,105,Inchworm,Inchworm
+"Grid(20, 12)",120,151,84,Inchworm,138,167,101,Inchworm,136,165,99,Inchworm,118,146,85,Inchworm,Inchworm
+"Grid(20, 14)",137,166,108,Lawn Green,129,156,105,Lawn Green,130,157,104,Lawn Green,119,147,98,Lawn Green,Lawn Green
+"Grid(20, 16)",125,165,92,Lawn Green,143,179,115,Lawn Green,131,177,102,Lawn Green,134,183,102,Lawn Green,Lawn Green
+"Grid(20, 18)",102,118,81,Inchworm,59,69,44,Inchworm,169,184,143,Inchworm,150,160,110,Orange,Inchworm
+"Grid(20, 19)",104,119,96,Lawn Green,65,79,56,Lawn Green,65,80,61,Lawn Green,91,112,79,Lawn Green,Lawn Green
+"Grid(20, 20)",84,99,60,Inchworm,107,135,94,Lawn Green,69,89,54,Lawn Green,87,113,84,Lawn Green,Lawn Green
+"Grid(20, 21)",118,161,69,Inchworm,120,164,87,Lawn Green,107,151,74,Lawn Green,127,158,101,Lawn Green,Lawn Green
+"Grid(20, 28)",77,92,73,Lawn Green,100,113,93,Lawn Green,85,98,80,Lawn Green,129,142,124,Lawn Green,Lawn Green
+"Grid(20, 29)",141,166,126,Lawn Green,110,133,87,Lawn Green,124,144,93,Inchworm,93,118,78,Lawn Green,Lawn Green
+"Grid(20, 30)",144,162,100,Inchworm,117,138,79,Inchworm,108,134,71,Inchworm,134,158,96,Inchworm,Inchworm
+"Grid(20, 32)",62,89,46,Lawn Green,161,182,125,Inchworm,97,140,86,Lawn Green,144,189,124,Lawn Green,Lawn Green
+"Grid(20, 33)",116,149,92,Lawn Green,124,162,101,Lawn Green,137,164,109,Inchworm,134,170,109,Lawn Green,Lawn Green
+"Grid(20, 35)",35,47,37,Bright Green,36,46,37,Bright Green,32,42,33,Bright Green,34,41,34,Bright Green,Bright Green
+"Grid(20, 36)",90,91,59,Orange,100,98,75,Orange,108,109,78,Orange,100,103,74,Orange,Orange
+"Grid(20, 37)",95,109,74,Inchworm,89,103,67,Inchworm,80,90,65,Inchworm,66,76,49,Inchworm,Inchworm
+"Grid(20, 38)",102,118,79,Inchworm,91,107,70,Inchworm,73,90,48,Inchworm,116,133,91,Inchworm,Inchworm
+"Grid(20, 39)",25,28,33,Dark Pastel Green,72,98,61,Lawn Green,44,71,28,Lawn Green,76,100,64,Lawn Green,Lawn Green
+"Grid(21, 0)",153,167,118,Inchworm,182,218,118,Inchworm,170,206,110,Inchworm,195,230,138,Inchworm,Inchworm
+"Grid(21, 1)",102,154,80,Lawn Green,137,169,94,Inchworm,180,216,118,Inchworm,131,163,87,Inchworm,Inchworm
+"Grid(21, 2)",143,199,126,Lawn Green,75,132,64,Lawn Green,83,134,65,Lawn Green,101,152,85,Lawn Green,Lawn Green
+"Grid(21, 3)",63,117,41,Lawn Green,23,73,10,Lawn Green,70,120,57,Lawn Green,94,146,72,Lawn Green,Lawn Green
+"Grid(21, 4)",132,164,91,Inchworm,139,171,96,Inchworm,132,170,97,Lawn Green,159,195,121,Inchworm,Inchworm
+"Grid(21, 5)",139,170,102,Inchworm,108,139,69,Inchworm,127,158,90,Inchworm,111,143,76,Inchworm,Inchworm
+"Grid(21, 6)",84,121,67,Lawn Green,116,154,97,Lawn Green,78,116,57,Lawn Green,114,152,93,Lawn Green,Lawn Green
+"Grid(21, 7)",115,149,89,Lawn Green,155,193,136,Lawn Green,105,143,86,Lawn Green,108,143,87,Lawn Green,Lawn Green
+"Grid(21, 9)",150,192,118,Lawn Green,144,185,109,Lawn Green,133,169,105,Lawn Green,141,176,120,Lawn Green,Lawn Green
+"Grid(21, 10)",126,163,93,Lawn Green,122,157,93,Lawn Green,131,171,100,Lawn Green,125,167,95,Lawn Green,Lawn Green
+"Grid(21, 11)",122,157,89,Lawn Green,109,144,78,Lawn Green,115,150,82,Lawn Green,109,144,76,Lawn Green,Lawn Green
+"Grid(21, 12)",110,151,83,Lawn Green,104,145,77,Lawn Green,92,134,58,Lawn Green,109,150,82,Lawn Green,Lawn Green
+"Grid(21, 13)",120,159,92,Lawn Green,125,160,102,Lawn Green,109,144,90,Lawn Green,127,167,97,Lawn Green,Lawn Green
+"Grid(21, 14)",129,161,114,Lawn Green,118,147,99,Lawn Green,78,105,64,Lawn Green,113,142,96,Lawn Green,Lawn Green
+"Grid(21, 15)",138,176,103,Lawn Green,149,179,119,Lawn Green,156,186,122,Inchworm,142,178,108,Lawn Green,Lawn Green
+"Grid(21, 17)",22,26,27,Dollar Bill,28,34,24,Lawn Green,21,26,19,Lawn Green,18,23,17,Lawn Green,Lawn Green
+"Grid(21, 19)",85,101,65,Inchworm,28,43,24,Lawn Green,25,39,22,Lawn Green,19,33,16,Lawn Green,Lawn Green
+"Grid(21, 20)",89,111,75,Lawn Green,89,115,78,Lawn Green,12,28,28,Dollar Bill,112,144,105,Lawn Green,Lawn Green
+"Grid(21, 21)",113,131,69,Inchworm,114,161,69,Lawn Green,90,166,58,Lawn Green,114,203,77,Lawn Green,Lawn Green
+"Grid(21, 22)",97,181,70,Lawn Green,83,165,57,Lawn Green,90,172,62,Lawn Green,78,162,51,Lawn Green,Lawn Green
+"Grid(21, 26)",100,130,78,Lawn Green,113,143,91,Lawn Green,127,154,99,Inchworm,121,157,109,Lawn Green,Lawn Green
+"Grid(21, 29)",103,114,97,Lawn Green,54,65,49,Lawn Green,78,89,73,Lawn Green,48,59,43,Lawn Green,Lawn Green
+"Grid(21, 33)",83,117,56,Lawn Green,255,216,210,black,248,208,198,black,251,211,201,black,black
+"Grid(21, 34)",112,132,83,Inchworm,140,155,112,Inchworm,126,143,98,Inchworm,92,116,64,Inchworm,Inchworm
+"Grid(21, 35)",93,88,66,Orange,71,74,53,Orange,103,98,76,Orange,117,112,93,Orange,Orange
+"Grid(21, 37)",64,79,48,Inchworm,70,85,54,Inchworm,69,84,53,Inchworm,56,71,40,Inchworm,Inchworm
+"Grid(21, 38)",93,114,71,Inchworm,95,116,75,Lawn Green,94,114,77,Lawn Green,91,112,71,Lawn Green,Lawn Green
+"Grid(21, 39)",109,97,83,Red,107,132,90,Lawn Green,108,96,82,Red,103,91,77,Red,Red
